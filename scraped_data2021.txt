@@ -1,0 +1,4283 @@
+Sunspot number New regions Background flux Maximum flux
+23 -2 0 A4.79 B3.18
+Solar flares
+Region Start Maximum End
+2795 B3.1 01:46 01:54 01:58
+2795 B2.1 04:35 04:42 04:46
+2795 B1.9 14:59 15:04 15:08
+
+Sunspot number New regions Background flux Maximum flux
+23 -2 0 A4.79 B3.18
+Solar flares
+Region Start Maximum End
+2795 B3.1 01:46 01:54 01:58
+2795 B2.1 04:35 04:42 04:46
+2795 B1.9 14:59 15:04 15:08
+
+Sunspot number New regions Background flux Maximum flux
+22 -1 0 A4.84 A6.98
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 -22 0 A4.63 A7.41
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.8 A5.19
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.06 A5.49
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.75 A2.58
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.05 A4.45
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.49 A5.66
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.21 A3.05
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.99 A3.37
+Solar flares
+Region Start Maximum End
+- A1 18:30 18:31 18:32
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.94 A2.95
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.22 A1.98
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.72 A4.37
+Solar flares
+Region Start Maximum End
+- A4.3 12:41 13:02 13:10
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.93 A2.72
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+13 13 1 1 A1.44 A3.28
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+15 2 0 -1 A3.14 A8.79
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+23 8 1 1 A4.15 B2.82
+Solar flares
+Region Start Maximum End
+2796 B2.8 13:18 13:28 13:35
+
+Sunspot number New regions Background flux Maximum flux
+13 -10 0 -1 A2.94 B1.2
+Solar flares
+Region Start Maximum End
+2797 B1.2 23:54 00:01 00:06
+
+Sunspot number New regions Background flux Maximum flux C
+14 1 0 A4.11 C1.09 1
+Solar flares
+Region Start Maximum End
+2798 B1.5 08:39 08:44 08:48
+2798 B1.1 10:09 10:15 10:21
+2798 B1.1 10:52 10:55 11:00
+2798 B1.1 11:09 11:14 11:24
+2798 C1 17:46 17:54 17:59
+2798 B1.3 19:13 19:19 19:24
+2798 B2.6 19:26 19:33 19:41
+2798 B4.1 20:25 20:41 20:45
+2798 B1.7 22:43 22:52 22:58
+
+Sunspot number New regions Background flux Maximum flux C
+25 11 1 1 A3.79 C1.41 1
+Solar flares
+Region Start Maximum End
+2798 B7 01:03 01:13 01:18
+2798 B1.8 06:08 06:13 06:21
+2798 B1.7 06:37 06:56 06:59
+2798 B1.7 06:59 07:04 07:08
+2798 B1.6 09:49 09:52 09:58
+2798 B7 10:01 10:11 10:23
+2798 B8.7 12:27 12:48 13:08
+2798 C1.4 12:35 12:53 12:59
+2798 B1.7 17:16 17:27 17:29
+2798 B3.1 17:29 17:33 17:39
+2798 B2 18:25 18:29 18:34
+2798 B1.1 19:27 19:36 19:44
+
+Sunspot number New regions Background flux Maximum flux
+26 1 0 -1 A5.74 B5.46
+Solar flares
+Region Start Maximum End
+2798 B2.6 23:54 00:06 00:16
+2798 B3.9 02:02 02:28 02:46
+2798 B1.4 03:27 03:37 03:54
+2798 B1.5 04:34 04:40 04:54
+2798 B2 05:21 05:28 05:35
+2798 B1.1 09:17 09:24 09:29
+2798 B5.4 09:47 09:59 10:05
+2798 B3.3 10:27 10:30 10:36
+2798 B1.3 12:34 12:47 12:50
+2798 B3.1 12:50 12:53 12:58
+2798 B1.2 14:59 15:05 15:12
+2798 B2.3 21:59 22:12 22:22
+2798 B1.3 22:42 22:51 23:09
+
+Sunspot number New regions Background flux Maximum flux
+39 13 1 1 A3.75 B1.56
+Solar flares
+Region Start Maximum End
+2798 B1.5 09:37 09:42 09:53
+
+Sunspot number New regions Background flux Maximum flux
+34 -5 0 -1 A2.94 B3.02
+Solar flares
+Region Start Maximum End
+2798 B1.3 00:05 00:42 01:30
+2798 B3 23:34 23:53 00:18
+
+Sunspot number New regions Background flux Maximum flux
+23 -11 0 A2.59 B2.93
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+26 3 0 A4.82 B5.09
+Solar flares
+Region Start Maximum End
+2799 B1.5 02:25 02:40 02:57
+2799 B5 06:31 06:41 06:48
+2799 B2.2 08:08 08:19 08:26
+2799 B1.3 11:15 11:18 11:20
+2799 B1.6 11:20 11:28 11:32
+
+Sunspot number New regions Background flux Maximum flux
+23 -3 0 A2.91 B1.38
+Solar flares
+Region Start Maximum End
+2799 B1.3 23:00 23:08 23:16
+
+Sunspot number New regions Background flux Maximum flux
+26 3 1 1 A1.36 B1.03
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 -26 0 -1 A1.69 B3.4
+Solar flares
+Region Start Maximum End
+2800 B3.1 22:58 23:08 23:16
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.6 B3.9
+Solar flares
+Region Start Maximum End
+2800 B2.5 09:41 09:55 10:08
+2800 B3.8 20:05 20:16 20:27
+2800 B4.3 20:09 20:19 20:24
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.95 A7.09
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.75 A3.93
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.07 A3.08
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+12 12 1 1 A1.26 A2.49
+Solar flares
+Region Start Maximum End
+2801 B1 13:46 13:53 14:00
+
+Sunspot number New regions Background flux Maximum flux
+11 -1 0 -1 A1.02 A2.59
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 -11 0 A0.81 A4.78
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.6 A2.4
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.95 A2.35
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.84 A2.97
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.86 A8.69
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.46 A4.23
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.71 B5.78
+Solar flares
+Region Start Maximum End
+- B5.7 11:42 12:06 12:17
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.38 A2.39
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.3 A2
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.1 A2.93
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.15 A2.05
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.39 A2.14
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.09 A3.45
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.08 A4.33
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+12 12 1 1 A3.09 B1.38
+Solar flares
+Region Start Maximum End
+2803 B1.2 11:45 11:53 11:58
+2803 B1 13:25 13:29 13:37
+2803 B1.3 19:56 20:47 21:09
+
+Sunspot number New regions Background flux Maximum flux
+12 1 A2.54 B1.8
+Solar flares
+Region Start Maximum End
+2803 B1.7 08:53 09:01 09:08
+2803 B1.1 14:40 14:47 14:51
+
+Sunspot number New regions Background flux Maximum flux
+12 0 -1 A2.61 B1.17
+Solar flares
+Region Start Maximum End
+2803 B1.1 11:47 11:53 11:58
+
+Sunspot number New regions Background flux Maximum flux
+11 -1 0 A0.51 A7.39
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+26 15 2 2 A2.17 B6.55
+Solar flares
+Region Start Maximum End
+2804 B4.5 17:02 17:07 17:13
+2804 B5.4 21:19 21:29 21:36
+2804 B1.5 22:34 22:39 22:50
+
+Sunspot number New regions Background flux Maximum flux
+31 5 0 -2 A4.22 B3.38
+Solar flares
+Region Start Maximum End
+2804 B3.3 00:11 00:16 00:23
+2805 B1.3 05:20 05:32 05:51
+2805 B1.8 05:18 05:34 05:50
+2804 B1.7 07:01 07:06 07:14
+2804 B1 09:20 09:24 09:36
+2804 B1.2 10:16 10:24 10:30
+2805 B1.9 14:18 14:27 14:32
+2804 B1.6 14:48 14:52 14:58
+2804 B1.8 19:50 19:59 20:03
+
+Sunspot number New regions Background flux Maximum flux
+33 2 0 A5.36 B2.62
+Solar flares
+Region Start Maximum End
+2804 B1.1 10:39 10:51 11:01
+2804 B2.6 11:01 11:23 11:32
+2804 B1.5 14:40 14:47 14:58
+2804 B1.7 17:37 17:44 17:49
+2804 B2.3 17:54 18:01 18:08
+2804 B1.9 19:31 19:39 19:47
+2804 B1.1 20:59 21:06 21:10
+
+Sunspot number New regions Background flux Maximum flux
+31 -2 0 A7.38 B4.66
+Solar flares
+Region Start Maximum End
+2804 B2.5 00:00 00:07 00:15
+2804 B3.4 00:42 00:52 00:56
+2804 B2.7 03:08 03:22 03:35
+2804 B1.8 04:31 04:43 04:53
+2804 B2.1 05:23 05:32 05:36
+- B1.3 05:44 05:52 05:57
+2804 B4.6 06:28 06:37 06:43
+2804 B1.3 09:31 09:39 09:46
+2804 B1.4 09:46 09:51 09:58
+2804 B1.1 13:43 13:47 13:53
+2804 B1 14:01 14:06 14:08
+2804 B3.7 14:07 14:16 14:21
+2804 B1 15:47 15:53 15:58
+2804 B1 15:47 15:55 15:59
+
+Sunspot number New regions Background flux Maximum flux
+16 -15 0 A5.95 B9.6
+Solar flares
+Region Start Maximum End
+2804 B1.1 01:25 01:35 01:37
+2804 B1.2 01:37 01:41 01:47
+2804 B1.2 04:41 04:47 06:17
+2804 B1.4 06:17 06:20 06:31
+2805 B9.5 07:02 07:25 07:48
+2804 B1.6 19:31 19:38 19:42
+
+Sunspot number New regions Background flux Maximum flux C
+14 -2 0 A5.59 C2.79 1
+Solar flares
+Region Start Maximum End
+- B1 00:38 00:46 00:49
+- B2.5 00:48 00:54 00:58
+- B2.9 09:36 09:49 09:55
+- B1.3 10:51 10:56 11:00
+- B1.2 12:44 12:51 12:55
+- B1.7 15:12 15:21 15:27
+- B1.3 17:22 17:31 17:35
+2804 C2.7 17:51 18:00 18:05
+
+Sunspot number New regions Background flux Maximum flux C
+13 -1 0 A5.28 C3.95 1
+Solar flares
+Region Start Maximum End
+- B1.2 00:04 00:11 00:16
+2804 C3.9 06:38 06:46 06:51
+2804 B1.1 18:01 18:10 18:24
+2804 B1.1 18:54 18:58 19:06
+2804 B1.1 20:32 20:39 20:46
+2804 B1 21:09 21:17 21:26
+
+Sunspot number New regions Background flux Maximum flux
+0 -13 0 A4 B2.23
+Solar flares
+Region Start Maximum End
+- B1.1 00:09 00:15 00:19
+- B1.1 00:19 00:23 00:27
+- B2 01:00 01:09 01:13
+- B1.7 02:37 02:46 02:51
+- B2 05:01 05:11 05:15
+2804 B2 06:39 06:43 06:47
+2804 B2.2 08:01 08:09 08:14
+2804 B1.5 13:07 13:39 14:15
+
+Sunspot number New regions Background flux Maximum flux C
+28 28 2 2 A2.39 B1.93 1
+Solar flares
+Region Start Maximum End
+- B1.9 16:18 16:27 16:36
+2807 B1.1 18:19 18:22 18:38
+
+Sunspot number New regions Background flux Maximum flux
+30 2 0 -2 A3.94 C1.29
+Solar flares
+Region Start Maximum End
+2807 C1.2 23:53 00:03 00:07
+2807 B1.4 00:55 01:01 01:05
+2807 B1.6 01:27 01:34 01:38
+2807 B5.2 01:46 01:53 01:57
+2807 B1.2 02:20 02:22 02:29
+2807 B1.3 02:52 03:02 03:11
+2807 B2.8 03:40 03:43 03:47
+2807 B1.4 13:10 13:20 13:26
+
+Sunspot number New regions Background flux Maximum flux
+32 2 0 A2.04 A9.55
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+14 -18 0 A2.81 B1.85
+Solar flares
+Region Start Maximum End
+- B1.8 10:03 10:10 10:14
+- B1.7 14:25 14:33 14:37
+- B1.7 16:14 16:22 16:28
+
+Sunspot number New regions Background flux Maximum flux
+23 9 0 A2.12 B1.6
+Solar flares
+Region Start Maximum End
+- B1.5 19:23 19:33 19:41
+- B1 21:50 21:58 22:04
+
+Sunspot number New regions Background flux Maximum flux
+14 -9 0 A4.27 B3.23
+Solar flares
+Region Start Maximum End
+- B3.1 01:17 01:34 02:05
+- B1.9 03:14 03:28 03:39
+2806 B1.1 07:05 07:12 07:23
+2806 B1.8 07:29 07:38 07:42
+2806 B1.4 17:10 17:19 17:24
+
+Sunspot number New regions Background flux Maximum flux
+12 -2 0 A5.55 B1.35
+Solar flares
+Region Start Maximum End
+2806 B1.1 03:03 03:12 03:20
+
+Sunspot number New regions Background flux Maximum flux C
+23 11 1 1 A6.34 C1.68 1
+Solar flares
+Region Start Maximum End
+2806 B1 04:24 04:30 08:32
+2808 B1.1 08:32 08:37 08:43
+2808 C1.6 12:15 12:35 12:42
+2807 B1.9 16:23 16:26 16:30
+2807 B1.4 17:25 17:29 17:33
+
+Sunspot number New regions Background flux Maximum flux
+11 -12 0 -1 A5.18 B1.01
+Solar flares
+Region Start Maximum End
+2808 B1 02:12 02:17 02:27
+
+Sunspot number New regions Background flux Maximum flux
+23 12 1 1 A3.61 B1.43
+Solar flares
+Region Start Maximum End
+- B1.2 11:31 11:37 11:41
+
+Sunspot number New regions Background flux Maximum flux
+15 -8 0 -1 A2.78 B2.51
+Solar flares
+Region Start Maximum End
+2808 B1.7 18:46 18:54 18:56
+2808 B2.6 18:56 19:04 19:13
+
+Sunspot number New regions Background flux Maximum flux
+12 -3 0 A2.2 A5.42
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+24 12 0 A2.92 A8
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+24 0 A4.04 B3.02
+Solar flares
+Region Start Maximum End
+2808 B3 09:55 10:05 10:09
+
+Sunspot number New regions Background flux Maximum flux
+23 -1 1 1 A4.31 B3.29
+Solar flares
+Region Start Maximum End
+2808 B3.2 20:09 20:26 20:40
+
+Sunspot number New regions Background flux Maximum flux
+12 -11 0 -1 A3.87 A7.41
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+12 0 A3.34 A4.81
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+14 2 0 A3.19 A8.33
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+12 -2 0 A3.42 B2.11
+Solar flares
+Region Start Maximum End
+2811 B1 14:28 14:36 14:45
+2811 B2.1 15:31 15:50 16:10
+2811 B2.1 15:31 15:53 16:09
+2811 B1.5 23:22 23:39 23:51
+
+Sunspot number New regions Background flux Maximum flux
+12 1 1 A5.26 B1.37
+Solar flares
+Region Start Maximum End
+- B1.3 15:30 15:38 15:43
+2811 B1.2 16:09 16:18 16:27
+- B1.6 18:05 18:18 18:31
+2810 B1.3 18:51 19:01 19:14
+2811 B1.2 21:37 21:46 21:55
+
+Sunspot number New regions Background flux Maximum flux
+12 0 -1 A4.9 B5.63
+Solar flares
+Region Start Maximum End
+2810 B5 01:10 01:40 01:59
+2811 B1.5 18:25 18:40 18:52
+2811 B1.8 20:33 20:40 20:44
+2811 B1 21:23 21:28 21:37
+
+Sunspot number New regions Background flux Maximum flux
+26 14 0 A6.36 B1.34
+Solar flares
+Region Start Maximum End
+2811 B1.2 16:38 16:42 16:48
+2811 B1.1 20:31 20:34 20:39
+2811 B1.2 22:16 22:26 22:31
+
+Sunspot number New regions Background flux Maximum flux
+26 0 A4.61 B3.07
+Solar flares
+Region Start Maximum End
+2811 B1.1 00:07 00:12 00:33
+2811 B1.5 04:01 04:07 04:13
+2812 B3.7 21:49 22:00 22:05
+
+Sunspot number New regions Background flux Maximum flux
+24 -2 0 A3.38 B8.36
+Solar flares
+Region Start Maximum End
+2812 B8.3 15:06 15:19 15:28
+2812 B1.4 15:52 16:02 16:21
+2810 B1.8 16:41 16:51 16:59
+2812 B1 21:42 21:49 21:56
+
+Sunspot number New regions Background flux Maximum flux
+24 0 A3.52 B1.24
+Solar flares
+Region Start Maximum End
+2812 B1.2 13:47 13:56 14:08
+
+Sunspot number New regions Background flux Maximum flux
+11 -13 0 A3.09 B1.28
+Solar flares
+Region Start Maximum End
+2812 B1.2 20:34 20:38 20:42
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A2.49 A7.81
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+13 2 0 A2.41 A4.79
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 -13 0 A2.21 B7.48
+Solar flares
+Region Start Maximum End
+2811 B7.4 19:46 20:05 20:18
+2811 B1 20:54 21:02 21:11
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.79 A4.44
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.62 A3.49
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.43 A7.71
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.94 A4.42
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 11 1 1 A0.94 A9.19
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 0 -1 A0.75 A2.04
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A0.91 A1.6
+Solar flares
+Region Start Maximum End
+- A1.2 12:43 12:45 12:47
+
+Sunspot number New regions Background flux Maximum flux
+0 -11 0 A0.71 A3.84
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.15 A3.02
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1 A1.62
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.02 A1.86
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.67 A5.33
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+16 16 1 1 A2.71 B8.42
+Solar flares
+Region Start Maximum End
+2814 B2.6 19:43 19:53 19:56
+2814 B8.5 19:56 20:03 20:15
+2814 B2.1 22:38 22:49 22:56
+2814 B1.9 22:56 23:00 23:04
+
+Sunspot number New regions Background flux Maximum flux
+16 0 -1 A2.59 B5.96
+Solar flares
+Region Start Maximum End
+2814 B6 01:06 01:18 01:22
+2814 B5.7 01:39 01:52 01:58
+2814 B2.8 12:38 12:47 12:51
+
+Sunspot number New regions Background flux Maximum flux
+17 1 0 A3.77 B2.34
+Solar flares
+Region Start Maximum End
+- B1.3 03:56 04:08 04:14
+- B1.5 04:58 05:06 05:12
+- B2.4 06:48 06:58 07:06
+
+Sunspot number New regions Background flux Maximum flux
+22 5 0 A4.77 B1.76
+Solar flares
+Region Start Maximum End
+- B1.7 00:02 00:10 00:14
+- B1 10:51 10:58 11:04
+- B1.4 15:22 15:30 15:40
+
+Sunspot number New regions Background flux Maximum flux
+44 22 2 2 A4.86 B3.41
+Solar flares
+Region Start Maximum End
+- B1.2 02:05 02:15 02:21
+2816 B1.6 10:39 10:47 10:52
+2814 B1.5 17:16 17:25 17:30
+2814 B1.1 17:38 17:45 17:51
+2814 B3.4 17:55 18:10 18:15
+2815 B1.3 19:32 19:40 19:46
+2816 B1.2 21:01 21:09 21:14
+
+Sunspot number New regions Background flux Maximum flux
+28 -16 0 -2 A4.48 B9.77
+Solar flares
+Region Start Maximum End
+- B1.3 15:52 16:08 16:16
+- B9.6 16:21 17:17 18:31
+2816 B1.2 23:23 23:35 23:44
+
+Sunspot number New regions Background flux Maximum flux
+15 -13 0 A7.46 B4.16
+Solar flares
+Region Start Maximum End
+2814 B4.1 23:49 00:00 00:04
+2816 B1.2 08:09 08:16 08:22
+- B2.3 09:23 09:33 09:38
+- B1.2 10:02 10:07 10:11
+- B1.4 11:05 11:12 11:20
+- B3.8 12:25 12:37 12:53
+- B1.2 14:29 14:35 14:40
+2016 B1.7 20:49 20:53 20:58
+
+Sunspot number New regions Background flux Maximum flux M
+36 21 1 1 B1.19 M1.11 1
+Solar flares
+Region Start Maximum End
+2016 B1 00:17 00:24 00:28
+- B1.1 02:46 02:53 03:00
+- B1 04:08 04:15 04:20
+- B1 04:44 04:47 04:52
+- B2.7 05:07 05:19 05:25
+- B1.3 06:13 06:21 06:25
+- B1.4 06:25 06:31 06:35
+- B1.4 07:34 07:40 07:44
+- B6.9 07:44 07:51 07:56
+- B1.1 08:53 08:59 09:03
+- B3.2 09:13 09:28 09:43
+2817 B3.1 13:55 13:59 14:04
+- B1 15:57 16:02 16:09
+2817 B1.5 16:19 16:29 16:35
+2817 B5 16:35 16:44 16:48
+- B3.3 17:51 17:59 18:03
+- B2.4 18:20 18:27 18:44
+2817 B2.5 18:59 19:06 19:08
+2817 B2.7 19:08 19:14 19:18
+2816 B8.2 21:09 21:19 21:25
+2817 B6.7 22:04 22:15 22:26
+2816 M1.1
+1
+2
+3
+23:19 23:42 23:59
+
+Sunspot number New regions Background flux Maximum flux
+54 18 1 B1.96 C5.05
+Solar flares
+Region Start Maximum End
+2817 B2.7 03:35 03:40 03:47
+2817 B2.3 04:18 04:25 04:29
+2817 B2.3 04:28 04:33 04:37
+2817 B3.7 05:46 05:49 05:53
+2817 B6.4 06:07 06:10 06:16
+2817 B7.5 06:42 06:48 06:52
+2817 B3.4 08:31 08:43 08:45
+2817 B5 08:45 08:58 09:05
+2817 B5.2 09:05 09:12 09:18
+2817 B3.4 09:29 09:34 09:41
+2817 B3.7 10:00 10:10 10:21
+2817 B6.2 10:21 10:28 10:33
+2817 B5 10:38 10:44 10:51
+2817 B3.4 11:38 11:45 11:51
+2814 C1.9 11:51 12:15 12:38
+2817 B5.4 13:53 14:02 14:06
+- B5.9 14:16 14:20 14:28
+2816 B6.1 15:00 15:15 15:22
+- B4.3 16:13 16:24 16:40
+2817 B4.9 17:05 17:13 17:18
+- B4.8 17:44 17:54 17:59
+- B1.9 23:32 23:38 23:47
+- B3.1 23:47 23:56 00:12
+- B2.9 23:47 23:58 00:15
+
+Sunspot number New regions Background flux Maximum flux C
+47 -7 0 -1 B1.24 C1.6 1
+Solar flares
+Region Start Maximum End
+2817 C1.6 01:18 01:29 02:37
+- B3.3 02:37 02:47 02:52
+2817 B4.6 02:58 03:02 03:06
+2817 B3.7 03:35 03:46 03:58
+2817 B2.9 04:14 04:18 04:22
+2817 B1.7 05:34 05:42 05:48
+2817 B2.5 08:08 08:19 08:30
+2817 B2.9 08:30 08:36 08:40
+2817 B1.2 09:07 09:12 09:24
+2817 B1.8 10:40 10:47 11:00
+2817 B2.1 11:44 11:51 12:08
+2817 B1.8 12:23 12:27 12:34
+2817 B2.1 12:54 13:03 13:10
+2816 B1.5 14:28 14:35 14:39
+2816 B1.5 14:39 14:47 14:52
+2817 B4.4 15:08 15:30 15:51
+2817 B5.1 16:31 16:40 16:49
+2817 B6.2 16:51 16:58 17:03
+2816 B2.1 18:10 18:19 18:23
+2817 B3.1 18:29 18:40 18:44
+2817 B3.4 18:29 18:43 18:45
+2817 B3.5 18:44 18:49 18:51
+2817 B4.4 18:51 19:01 19:05
+2816 B6.2 19:27 19:32 19:37
+2817 B2.6 22:39 22:48 22:55
+
+Sunspot number New regions Background flux Maximum flux C
+42 -5 0 B2.31 C8.56 11
+Solar flares
+Region Start Maximum End
+2817 B6.3 02:26 02:34 02:53
+2816 C3.9 04:10 04:35 05:00
+2816 C2.7 05:00 05:06 05:10
+2817 C1.7 05:50 05:57 06:02
+2817 C2.3 07:16 07:23 07:27
+2817 B4.5 09:00 09:08 09:14
+2817 C4.3 09:14 09:21 09:41
+2817 C1.4 10:03 10:08 10:14
+2817 C3.7 10:40 10:49 11:03
+- C2.8 12:18 12:27 12:42
+- B8.1 13:05 13:12 13:18
+- C2.5 14:13 14:30 14:43
+- C1 15:43 15:59 16:06
+- C1 16:05 16:14 16:21
+- B7.2 18:53 19:00 19:04
+2817 C8.6 20:00 20:11 20:20
+2817 B6.3 21:26 21:29 21:33
+2817 B5.5 23:20 23:26 23:35
+2817 B5.5 23:40 23:49 23:59
+
+Sunspot number New regions Background flux Maximum flux C
+29 -13 0 B2.4 C2.47 6
+Solar flares
+Region Start Maximum End
+2816 B8.4 00:49 01:03 01:26
+2817 C1.3 01:32 01:52 02:02
+2817 C1.4 02:37 02:52 03:02
+2816 B2.9 04:20 04:27 04:32
+2816 B4.9 04:42 04:50 05:02
+2816 B9.6 05:08 05:18 05:20
+2816 C1 05:09 05:25 05:59
+2816 C1.4 06:14 06:28 06:41
+- B6.2 08:02 08:16 08:30
+2816 B4.1 11:07 11:15 11:30
+2817 B4.1 16:33 16:44 17:00
+2816 B6.8 18:15 18:28 18:38
+2817 B6.6 22:17 22:32 22:39
+2817 C2.3 22:39 22:54 22:57
+2817 C2.3 22:57 23:01 23:06
+2817 C2.4 23:08 23:12 23:16
+
+Sunspot number New regions Background flux Maximum flux
+62 33 2 2 B1.32 B7
+Solar flares
+Region Start Maximum End
+2816 B1.8 03:35 03:42 03:46
+2820 B4.3 04:44 05:02 05:16
+2820 B4.4 04:42 05:07 05:17
+2820 B2.3 11:13 11:16 11:20
+2820 B1 14:36 14:40 14:44
+2820 B4.5 14:49 14:55 14:59
+2820 B1.6 15:33 15:59 16:10
+2820 B6.6 16:44 16:53 16:58
+2820 B3 17:14 17:18 17:22
+2820 B1.3 17:31 17:37 17:42
+2820 B2.3 18:26 18:35 18:39
+2820 B3.8 18:42 18:49 18:55
+2820 B1.8 20:00 20:09 20:16
+2820 B2.4 20:27 20:34 20:40
+- B1.1 20:58 21:09 21:16
+- B1.4 22:10 22:17 22:22
+2820 B2.7 23:45 23:57 00:00
+
+Sunspot number New regions Background flux Maximum flux C
+57 -5 1 -1 A6.7 C2.65 1
+Solar flares
+Region Start Maximum End
+2820 B3.3 00:00 00:05 00:11
+2816 C2.6 01:17 01:35 01:51
+2820 B1.1 10:58 11:01 11:12
+2816 B1.2 12:36 12:48 13:01
+2819 B1 15:49 15:54 16:04
+2820 B4.8 16:43 16:55 17:04
+2820 B2 17:41 17:49 17:53
+2820 B2 18:17 18:34 18:51
+2820 B1.4 21:00 21:07 21:13
+2820 B1.3 21:21 21:25 21:31
+- B5.5 23:50 23:59 00:12
+
+Sunspot number New regions Background flux Maximum flux C
+54 -3 0 -1 A7.16 C1.36 1
+Solar flares
+Region Start Maximum End
+- B1.8 00:48 00:51 00:57
+- B2.4 01:08 01:28 01:40
+2820 B1.8 01:47 01:51 01:53
+2820 B7.3 01:53 02:11 02:17
+2816 C1.3 02:22 02:30 02:35
+2820 B3.5 02:51 02:56 03:00
+2820 B1.1 04:09 04:18 04:34
+2820 B1.9 04:34 04:47 04:52
+2820 B1.6 05:01 05:14 05:21
+2820 B2.5 05:41 05:49 05:55
+2820 B1.6 08:46 08:52 08:59
+2820 B1.6 08:46 08:56 09:00
+2820 B3.2 10:10 10:22 10:30
+2820 B1.3 10:48 10:52 10:56
+- B1.1 12:19 12:25 12:32
+- B1.2 13:03 13:07 13:13
+- B4.3 13:29 13:34 13:40
+- B1.8 13:46 13:51 14:00
+- B1.1 14:23 14:31 14:37
+- B1.1 15:50 15:59 16:07
+
+Sunspot number New regions Background flux Maximum flux
+47 -7 0 A7.47 B3.38
+Solar flares
+Region Start Maximum End
+2821 B1.2 04:27 04:34 04:39
+2821 B1.1 07:37 07:43 07:57
+2821 B2.7 08:13 08:23 08:36
+2821 B3.3 16:04 16:13 16:17
+2820 B2.2 21:41 21:53 22:01
+
+Sunspot number New regions Background flux Maximum flux
+42 -5 0 A6.65 B3.41
+Solar flares
+Region Start Maximum End
+2820 B2 07:20 07:29 07:37
+2820 B3.4 07:39 07:45 07:49
+2820 B1.2 08:04 08:09 08:19
+2821 B1.2 12:40 12:44 12:48
+
+Sunspot number New regions Background flux Maximum flux
+37 -5 0 A5.63 B6.2
+Solar flares
+Region Start Maximum End
+2820 B1.1 13:51 14:01 14:08
+2821 B1.4 17:59 18:05 18:17
+2821 B1.3 18:19 18:23 18:29
+2820 B1.4 19:41 19:54 20:02
+2821 B2.4 20:34 20:54 21:03
+2821 B6.2 22:13 22:32 22:41
+
+Sunspot number New regions Background flux Maximum flux
+35 -2 0 A4.54 B1.95
+Solar flares
+Region Start Maximum End
+2820 B1 03:26 03:33 03:44
+2818 B1.9 04:04 04:17 04:33
+2818 B1.4 04:48 04:55 05:02
+2820 B1.6 11:51 11:59 12:09
+2820 B1 12:43 12:52 13:03
+
+Sunspot number New regions Background flux Maximum flux
+11 -24 0 A3.19 B1.77
+Solar flares
+Region Start Maximum End
+2820 B1.7 19:49 20:00 20:16
+
+Sunspot number New regions Background flux Maximum flux
+0 -11 0 A3 A7.46
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.18 A9.15
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.95 B1.69
+Solar flares
+Region Start Maximum End
+- B1.7 08:45 08:52 08:58
+- B1.3 11:58 12:10 12:27
+- B1.2 12:27 12:35 12:42
+- B1.2 12:24 12:37 12:41
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A2.07 B1.28
+Solar flares
+Region Start Maximum End
+- B1.2 22:24 22:31 22:38
+- B1.1 22:43 22:48 22:54
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A3.67 B3.49
+Solar flares
+Region Start Maximum End
+- B1 02:57 03:03 03:08
+- B1.2 06:04 06:15 06:29
+- B3.5 07:52 08:01 08:05
+- B1.1 15:41 15:48 15:52
+- B1.1 19:06 19:14 19:19
+
+Sunspot number New regions Background flux Maximum flux M
+15 15 1 1 A5.01 M3.91 1
+Solar flares
+Region Start Maximum End
+- B2.7 00:32 00:38 00:42
+- B6.1 03:35 03:41 03:45
+- B1.4 06:49 06:55 06:59
+- B2.7 14:08 14:14 14:22
+- B3.9 14:22 14:32 14:39
+- B1.5 16:38 16:45 16:48
+- B2.4 16:38 16:55 17:06
+- B5.9 17:05 17:24 17:35
+2822 M3.9
+1
+2
+3
+18:43 19:04 19:19
+
+Sunspot number New regions Background flux Maximum flux C
+17 2 0 -1 A6.01 C8.64 2
+Solar flares
+Region Start Maximum End
+- B1 07:00 07:07 07:17
+- B1.5 08:21 08:26 08:32
+- B1 10:39 10:46 10:52
+2822 C1.5 12:33 13:00 13:19
+- B2.6 14:17 14:26 14:38
+2822 B1.2 15:38 15:46 15:50
+2822 C8.7 18:22 18:45 18:58
+2822 B3.1 20:56 21:07 21:11
+
+Sunspot number New regions Background flux Maximum flux C
+18 1 0 A5.51 C4.04 3
+Solar flares
+Region Start Maximum End
+2822 B2.8 00:27 00:44 01:00
+2822 B2.4 00:59 01:09 01:12
+2822 B2.9 01:12 01:16 01:21
+2822 C1.6 04:18 04:36 04:42
+2822 B1.5 05:41 05:47 05:55
+2822 B3.1 05:55 06:11 06:34
+2822 B1.2 07:53 07:58 08:05
+2822 C4 13:37 13:58 14:09
+2822 C2 14:20 14:49 15:25
+2822 B1.8 19:17 19:24 19:31
+
+Sunspot number New regions Background flux Maximum flux
+36 18 1 1 A5.29 B2
+Solar flares
+Region Start Maximum End
+- B1 07:36 07:44 07:50
+- B1.8 10:21 10:37 10:42
+- B1.8 10:42 10:45 10:50
+- B1.9 10:48 10:57 11:01
+2823 B1.9 13:44 13:52 13:56
+- B1.3 17:16 17:24 17:28
+- B1.1 22:49 22:55 22:59
+2282 B1 23:46 23:55 00:09
+
+Sunspot number New regions Background flux Maximum flux
+31 -5 0 -1 A4.66 B3.42
+Solar flares
+Region Start Maximum End
+2822 B2.8 03:10 03:28 03:55
+2822 B2.6 03:55 04:06 04:17
+2822 B1.6 05:17 05:26 05:34
+2822 B1.9 06:21 06:39 06:43
+2822 B2.1 06:42 07:01 07:04
+2822 B2.1 07:04 07:10 07:14
+2822 B3.5 08:23 08:40 09:04
+
+Sunspot number New regions Background flux Maximum flux C
+31 0 A3.63 C1.52 1
+Solar flares
+Region Start Maximum End
+- B1.3 05:03 05:12 05:28
+2822 B3.1 05:34 05:48 05:59
+2822 C1.5 09:15 09:35 09:47
+2822 B1.2 21:22 21:29 21:33
+
+Sunspot number New regions Background flux Maximum flux
+24 -7 0 A3.26 B3.6
+Solar flares
+Region Start Maximum End
+2822 B2.5 01:36 01:47 01:55
+2822 B3.5 02:33 02:44 02:51
+2822 B1.8 11:11 11:16 11:19
+2822 B1.6 11:19 11:24 11:28
+2822 B1.3 18:07 18:15 18:22
+
+Sunspot number New regions Background flux Maximum flux
+24 0 A2.71 B4.94
+Solar flares
+Region Start Maximum End
+2823 B4.9 00:38 01:04 01:31
+- B1.2 16:51 17:01 17:09
+
+Sunspot number New regions Background flux Maximum flux
+24 0 A2.57 A6
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 -13 0 A4.18 A7.93
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A7.33 B4.34
+Solar flares
+Region Start Maximum End
+- B1.4 03:02 03:10 03:16
+- B1.2 11:52 11:58 12:02
+- B3.4 14:50 15:01 15:05
+- B1.3 17:47 17:54 17:58
+- B1.4 18:16 18:23 18:27
+- B1.3 18:52 18:58 19:02
+- B4.2 19:00 19:06 19:10
+- B1.1 19:55 20:02 20:07
+- B1.4 20:55 21:03 21:09
+- B1.4 21:52 21:59 22:07
+- B3.6 22:07 22:12 22:16
+- B1.3 23:39 23:45 23:56
+- B1.3 23:39 23:46 23:56
+
+Sunspot number New regions Background flux Maximum flux C
+24 13 1 1 A7.64 C1.14 1
+Solar flares
+Region Start Maximum End
+2824 C1 01:57 02:09 02:13
+2824 B2.2 08:15 08:23 08:27
+2824 B1.2 13:17 13:22 13:26
+2824 B1.5 13:26 13:29 13:34
+2824 B1 15:50 15:58 16:12
+2824 B2 21:26 21:35 21:45
+
+Sunspot number New regions Background flux Maximum flux
+24 0 -1 A6.75 B1.33
+Solar flares
+Region Start Maximum End
+2824 B1.1 02:58 03:07 03:15
+2824 B1.3 17:02 17:08 17:14
+
+Sunspot number New regions Background flux Maximum flux
+13 -11 0 A5.89 B1.29
+Solar flares
+Region Start Maximum End
+- B1.3 17:56 18:10 18:16
+
+Sunspot number New regions Background flux Maximum flux C
+13 0 A7.13 C4.82 1
+Solar flares
+Region Start Maximum End
+2824 B1.4 01:09 01:16 01:20
+- B2 03:30 03:38 03:42
+2824 B2.9 05:09 05:16 05:20
+2824 B1.4 06:57 07:03 07:07
+2824 B1.6 08:23 08:30 08:34
+- B3.8 08:41 08:46 08:50
+2824 B1 09:10 09:16 09:34
+2824 B2.8 09:12 09:21 09:25
+2824 B1.9 09:34 09:42 09:47
+2824 B3.1 10:05 10:13 10:17
+- B1.2 11:12 11:22 11:43
+2824 B1.4 12:13 12:19 12:23
+2824 B3.1 13:46 13:55 13:59
+- B3.6 16:45 16:57 17:01
+2824 C4.8 19:15 19:28 19:32
+2824 B1.3 19:43 19:51 19:56
+- B1.3 21:28 21:31 21:41
+2824 B1.5 22:11 22:15 22:19
+2824 B1.1 22:41 22:45 22:49
+
+Sunspot number New regions Background flux Maximum flux C M
+19 6 0 B1.81 M1.49 10 2
+Solar flares
+Region Start Maximum End
+2824 B1.5 00:37 00:46 00:50
+2824 B1.8 01:21 01:29 01:35
+2824 B1.3 01:50 01:59 02:01
+2824 B1.7 02:01 02:07 02:12
+2824 B2 01:49 02:08 02:15
+- B1.7 02:34 02:45 02:47
+2824 C6.2 02:47 02:56 03:00
+2824 B4 03:20 03:33 03:39
+- B2 05:29 05:39 05:45
+2824 C6 06:05 06:17 06:24
+2824 C1.3 06:45 06:52 06:58
+2824 C1.3 08:38 08:44 08:50
+2824 C2.5 11:17 11:23 11:29
+2824 C1.1 14:03 14:16 14:25
+2824 C3.2 15:10 15:35 15:44
+2824 C1.7 16:03 16:18 16:25
+2824 M1.1
+1
+17:03 17:11 17:16
+2824 B8.6 20:25 20:36 20:42
+2824 B7.1 21:08 21:15 21:30
+2824 M1.4
+1
+21:30 21:36 21:43
+2824 C1.8 21:53 22:00 22:05
+2824 B8.3 22:55 23:02 23:05
+2824 C6.9 23:05 23:13 23:17
+
+Sunspot number New regions Background flux Maximum flux C M
+30 11 1 1 B1.47 M1.19 4 1
+Solar flares
+Region Start Maximum End
+2824 B3.2 01:12 01:22 01:29
+2824 B4.8 01:33 01:40 01:45
+2824 B5.5 01:51 01:59 02:03
+2824 B6.2 02:11 02:20 02:29
+2824 B3.6 03:02 03:06 03:11
+2824 B3.3 03:33 03:37 03:41
+2824 B5.4 04:19 04:36 04:43
+2824 C1 04:46 04:51 04:55
+2824 C2.7 04:59 05:10 05:20
+2824 B3.5 07:16 07:25 07:33
+2824 B5 07:56 08:04 08:08
+2824 B2.1 08:07 08:14 08:19
+2824 B3 08:19 08:26 08:33
+2824 C2.4 09:09 09:22 09:35
+2824 B9 10:27 10:48 11:00
+2824 M1.2
+1
+11:00 11:08 11:14
+2824 B2.2 12:37 12:41 12:45
+2824 B2.3 12:49 13:00 13:06
+2824 B3.2 13:32 13:46 13:57
+2824 B1.8 15:11 15:21 15:25
+2824 B3 16:54 16:56 17:00
+2824 C2.2 17:00 17:05 17:10
+2824 B3.7 17:28 17:35 17:39
+2824 B2.1 18:02 18:10 18:14
+2824 B1.2 23:33 23:39 23:43
+
+Sunspot number New regions Background flux Maximum flux
+29 -1 0 -1 A7.09 B4.8
+Solar flares
+Region Start Maximum End
+2824 B1.4 00:14 00:21 00:23
+2824 B4.6 00:23 00:34 00:38
+2824 B3.3 04:07 04:23 04:41
+2824 B1.2 08:11 08:19 08:23
+2824 B3.5 09:18 09:35 09:38
+2824 B3.7 09:37 09:42 09:50
+2824 B1.2 13:08 13:17 13:22
+2824 B2.1 13:46 13:57 14:05
+2824 B2.4 16:15 16:22 16:26
+- B1.2 18:56 19:05 19:10
+2824 B1.1 22:33 22:41 22:49
+
+Sunspot number New regions Background flux Maximum flux
+36 7 1 1 A8.44 B5.3
+Solar flares
+Region Start Maximum End
+2824 B1.4 00:07 00:27 00:42
+2824 B1.4 00:07 00:31 00:42
+2824 B2.7 02:03 02:27 02:38
+2824 B2.6 02:38 02:43 02:45
+2824 B2.9 02:40 02:49 02:53
+2824 B1.2 09:43 09:51 09:55
+2824 B2.8 18:00 18:07 18:26
+2824 B2.8 17:59 18:12 18:26
+2826 B5.2 18:26 18:34 18:41
+2826 B5.1 18:54 19:02 19:06
+2826 B4.8 19:33 19:37 19:41
+2826 B3.3 20:25 20:29 20:40
+2826 B4.5 23:23 23:28 23:34
+
+Sunspot number New regions Background flux Maximum flux C
+34 -2 0 -1 B2.96 C3.86 7
+Solar flares
+Region Start Maximum End
+2826 B4.2 02:21 02:45 03:24
+2826 B4 03:24 03:29 03:33
+2826 B5.6 05:35 05:42 05:46
+2826 B4.6 06:32 06:39 06:48
+2826 C1.1 07:51 08:00 08:04
+2826 B9.5 08:54 09:01 09:05
+2826 B7.6 09:26 09:32 09:37
+2826 C1.2 09:46 09:55 10:00
+2824 B5.3 10:29 10:35 10:39
+2826 B5 13:37 13:42 13:46
+2826 B5.7 14:06 14:13 14:17
+2826 B8.7 14:20 14:25 14:35
+2826 C1 14:20 14:30 14:34
+2826 B9.1 14:41 14:44 14:49
+2826 B6.3 15:09 15:17 15:36
+2826 B5.7 16:31 16:35 16:49
+2826 C1.2 17:03 17:14 17:20
+2824 C1.7 18:22 18:30 18:34
+2826 B7 18:51 18:58 19:58
+2826 B7.4 19:47 19:51 19:53
+2826 B8 19:53 19:58 20:02
+2826 C3.1 20:26 20:37 20:52
+2826 C3.9 21:17 21:24 21:29
+2826 C2.9 21:29 21:32 21:34
+2826 C3.4 21:34 21:38 21:42
+
+Sunspot number New regions Background flux Maximum flux C
+34 0 B2.48 C7.62 3
+Solar flares
+Region Start Maximum End
+2724 B5.2 00:58 01:01 01:18
+2826 C1.4 03:07 03:13 03:28
+2826 B5.9 04:37 04:44 04:53
+2826 B4.5 05:45 05:55 06:01
+2826 B4.4 06:20 06:25 06:34
+2826 B4 06:34 06:36 06:40
+2826 B9.1 06:43 06:48 06:53
+2826 B3.8 07:30 07:36 07:49
+2826 B9 07:58 08:08 08:22
+2824 B5.9 08:59 09:03 09:09
+2824 B5.4 09:13 09:20 09:24
+2826 B4.9 09:39 09:43 09:55
+2826 B4.2 10:37 10:46 10:53
+2826 B4.9 11:13 11:21 11:27
+2824 B6.8 11:27 11:31 11:40
+2826 B7.7 12:22 12:30 12:41
+2826 B6.8 14:18 14:25 14:29
+2826 B8.1 16:54 17:03 17:09
+2826 B4 18:52 19:02 19:21
+2826 B3.6 19:21 19:27 19:29
+2824 B6.2 19:29 19:38 19:45
+2824 C1 21:44 22:07 22:18
+2824 C1.2 22:18 22:50 22:56
+2824 C7.6 22:54 23:15 23:24
+
+Sunspot number New regions Background flux Maximum flux C
+28 -6 0 B1.37 C9.47 2
+Solar flares
+Region Start Maximum End
+2826 B3.1 03:45 03:52 03:57
+2826 B1.8 07:09 07:17 07:32
+2826 B1.7 07:32 07:38 07:44
+2826 B5 08:14 08:21 08:26
+2826 B2.2 09:07 09:15 09:20
+2826 C3 09:47 09:57 10:01
+2826 B1.9 11:06 11:13 11:28
+2826 B3 11:30 11:41 11:47
+2826 B2.9 12:24 12:31 12:38
+2824 B2.1 13:11 13:18 13:25
+2824 B2.7 13:37 13:48 13:54
+2824 B2.7 13:37 13:50 13:53
+2824 B4.8 13:53 14:00 14:05
+2826 B2.1 19:25 19:33 19:37
+2824 C9.5 22:19 23:13 00:12
+
+Sunspot number New regions Background flux Maximum flux C
+26 -2 1 1 B2.18 C6.01 3
+Solar flares
+Region Start Maximum End
+2826 C1 03:19 03:24 03:32
+2826 C1.1 03:47 03:52 03:57
+2826 C1.7 05:39 05:50 05:57
+2826 B4.2 09:40 09:46 09:55
+2824 B3.9 16:40 16:45 16:52
+2824 B2.6 20:13 20:21 20:30
+2824 B2.4 22:29 22:38 22:48
+
+Sunspot number New regions Background flux Maximum flux
+27 1 1 B1.2 B3.73
+Solar flares
+Region Start Maximum End
+2824 B1.8 06:38 06:45 06:49
+2824 B1.6 06:49 06:55 06:59
+2824 B1.7 06:59 07:02 07:13
+2824 B1.6 06:59 07:04 07:14
+2824 B3.6 08:27 08:36 08:42
+2824 B3.1 11:10 11:16 11:20
+2824 B2.2 13:12 13:17 13:21
+2827 B3.6 15:57 16:03 16:10
+2827 B2.2 18:03 18:12 18:19
+2827 B2.3 19:12 19:15 19:19
+2824 B2.7 19:52 20:01 20:08
+2827 B1.3 20:47 20:53 20:56
+2827 B1.7 20:56 21:03 21:07
+2827 B1.3 21:37 21:43 22:09
+2824 B1.3 22:50 22:57 23:03
+2827 B2.9 23:22 23:29 23:33
+
+Sunspot number New regions Background flux Maximum flux
+31 4 0 -1 A6.76 B7.8
+Solar flares
+Region Start Maximum End
+2827 B3.3 00:25 00:36 00:41
+2827 B1.6 03:45 03:49 04:00
+2827 B2.1 03:59 04:03 04:07
+2827 B1.9 04:43 04:51 04:56
+2827 B7.8 05:34 05:44 05:48
+2827 B2.3 06:28 06:36 06:41
+2827 B1.4 08:37 08:45 08:51
+- B1.3 15:26 15:35 15:43
+- B1.2 15:56 16:03 16:07
+- B1.2 18:21 18:32 18:33
+- B1.6 18:21 18:51 19:32
+- B1.6 18:33 18:52 19:11
+- B2.1 20:46 20:56 21:02
+- B3.9 21:02 21:23 21:37
+- B1.4 23:09 23:19 23:30
+
+Sunspot number New regions Background flux Maximum flux C
+20 -11 0 A5.55 C1.7 1
+Solar flares
+Region Start Maximum End
+- B1 02:44 02:49 02:56
+- B1 03:26 03:35 03:42
+2827 C1.7 04:27 04:31 04:35
+- B1 06:49 06:52 07:03
+2827 B1 10:30 10:37 10:46
+2827 B1.1 11:39 11:43 11:47
+2827 B1 12:01 12:07 12:11
+2827 B1.6 23:13 23:25 23:45
+
+Sunspot number New regions Background flux Maximum flux
+30 10 1 1 A5.45 B2.77
+Solar flares
+Region Start Maximum End
+2827 B1.3 05:56 06:06 06:13
+2827 B1.2 07:35 07:45 07:50
+2827 B1.9 07:50 07:56 08:02
+2827 B2.7 08:18 08:22 08:26
+2827 B2.3 13:00 13:15 13:29
+2827 B1.5 14:14 14:23 14:30
+2827 B1.8 15:29 15:43 16:00
+
+Sunspot number New regions Background flux Maximum flux
+28 -2 0 -1 A5.34 B5.8
+Solar flares
+Region Start Maximum End
+2829 B5.8 01:57 02:05 02:09
+2829 B1.2 04:09 04:17 04:27
+2827 B1.2 07:11 07:20 07:40
+2829 B1.1 09:17 09:24 09:32
+2829 B1 10:52 10:58 11:00
+2829 B1.1 11:00 11:09 11:14
+2827 B1.4 11:46 11:54 12:00
+2827 B1.3 16:16 16:25 16:39
+2827 B1.4 16:16 16:27 16:40
+
+Sunspot number New regions Background flux Maximum flux
+30 2 0 A6.61 B4.58
+Solar flares
+Region Start Maximum End
+2829 B2.1 00:45 00:54 01:00
+2829 B1.8 01:02 01:06 01:12
+2829 B2.3 01:20 01:30 01:43
+2829 B1.9 02:09 02:16 02:20
+2829 B1 04:47 04:54 04:59
+2829 B1 05:03 05:11 05:18
+2829 B1.1 07:15 07:24 07:32
+2827 B4.6 08:12 08:21 08:28
+2827 B2.6 11:50 12:06 12:14
+2827 B3.8 14:23 14:30 14:37
+2827 B2.6 15:39 15:48 15:54
+2827 B3 15:54 15:59 16:04
+2827 B2.2 19:53 20:14 20:30
+2827 B1.5 23:09 23:17 23:28
+
+Sunspot number New regions Background flux Maximum flux
+30 0 A4.89 B2.35
+Solar flares
+Region Start Maximum End
+2829 B2.4 23:57 00:03 00:10
+2829 B2.2 00:20 00:29 00:39
+
+Sunspot number New regions Background flux Maximum flux
+42 12 1 1 A5.86 B1.7
+Solar flares
+Region Start Maximum End
+2829 B1.7 01:13 01:21 01:27
+2828 B1.5 02:38 02:47 02:52
+2829 B1 04:55 05:03 05:11
+2829 B1.4 18:29 18:35 18:42
+2829 B1.2 18:41 18:46 18:50
+2829 B1.7 19:02 19:18 19:27
+2830 B1.7 21:45 21:52 21:56
+
+Sunspot number New regions Background flux Maximum flux
+53 11 1 B1 B3.54
+Solar flares
+Region Start Maximum End
+2829 B2.1 01:19 01:27 01:32
+2830 B1.5 03:27 03:30 03:43
+2829 B1.5 04:09 04:18 04:33
+- B2.1 13:25 13:36 13:49
+- B3.6 14:31 14:35 14:39
+- B2.8 14:49 14:55 15:03
+- B2.1 20:49 20:52 21:02
+
+Sunspot number New regions Background flux Maximum flux C
+34 -19 0 -1 B1.36 C2.41 3
+Solar flares
+Region Start Maximum End
+- B1.9 03:09 03:16 03:18
+2830 B2.2 03:18 03:32 03:34
+2830 B2.3 03:23 03:38 03:42
+2830 B2.5 03:42 03:48 03:54
+- B3.2 05:11 05:22 05:30
+- B2.9 09:25 09:34 09:41
+- B4.8 10:18 10:28 10:39
+- C1.4 10:46 10:53 10:59
+- B3.1 13:28 13:40 13:55
+- B4.1 14:21 14:32 14:41
+- B3.8 14:58 15:08 15:16
+- B4.1 15:41 15:51 15:57
+- C2.4 17:15 17:23 17:30
+- B4.1 18:07 18:13 18:31
+- B4.2 18:17 18:21 18:25
+- C1.1 18:47 19:08 19:17
+- B3.3 21:33 21:41 21:44
+- B6.6 21:44 21:52 22:00
+- B4 22:32 22:35 22:40
+
+Sunspot number New regions Background flux Maximum flux C
+27 -7 1 1 B2.42 C3.8 1
+Solar flares
+Region Start Maximum End
+- B3.9 00:35 00:43 00:46
+- B4 00:46 00:50 00:54
+- B3.1 03:28 03:35 03:51
+- B8.1 05:05 05:19 05:30
+2831 C3.8 08:44 09:07 09:22
+2830 B4.5 11:35 11:44 11:50
+2831 C1.8 11:50 11:59 12:03
+2831 B8 19:09 19:24 19:27
+2831 B8.8 19:27 19:48 20:04
+
+Sunspot number New regions Background flux Maximum flux C
+29 2 0 -1 B1.17 C1.1 1
+Solar flares
+Region Start Maximum End
+2830 B2.6 04:31 04:37 04:57
+- B1.8 05:59 06:18 06:20
+- C1.1 05:59 06:42 06:57
+2831 B4.5 09:00 09:08 09:20
+
+Sunspot number New regions Background flux Maximum flux
+13 -16 0 A8.45 B2.15
+Solar flares
+Region Start Maximum End
+2833 B2.2 07:57 08:02 08:06
+2832 B1.4 21:55 22:02 22:06
+
+Sunspot number New regions Background flux Maximum flux
+0 -13 0 A7.71 B2.41
+Solar flares
+Region Start Maximum End
+2833 B1.6 00:36 00:47 00:52
+2833 B2.5 01:21 01:33 01:45
+2833 B1.4 02:40 02:45 02:49
+2833 B1.4 17:10 17:17 17:25
+
+Sunspot number New regions Background flux Maximum flux
+22 22 0 A6.33 B1.45
+Solar flares
+Region Start Maximum End
+2833 B1 07:40 07:46 07:50
+
+Sunspot number New regions Background flux Maximum flux
+11 -11 0 A5.26 B1.09
+Solar flares
+Region Start Maximum End
+2832 B1.1 02:56 03:03 03:07
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A3.93 A6.44
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A3.61 B1.11
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+12 1 0 A3.93 A7.49
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+24 12 1 1 A3.77 A6.47
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+15 -9 0 -1 A3.71 A6.37
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+13 -2 0 A4.51 B1.12
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 -2 0 A6.73 B1.25
+Solar flares
+Region Start Maximum End
+2833 B1.2 17:48 17:54 18:00
+
+Sunspot number New regions Background flux Maximum flux
+12 1 0 A9.33 B7.83
+Solar flares
+Region Start Maximum End
+- B3.7 02:29 02:43 02:56
+- B7.8 13:05 13:14 13:20
+
+Sunspot number New regions Background flux Maximum flux C
+11 -1 0 A9.71 C3.42 1
+Solar flares
+Region Start Maximum End
+- C3.4 06:43 07:07 07:34
+- B2.9 20:10 20:26 20:42
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A8.71 B2.89
+Solar flares
+Region Start Maximum End
+2833 B2.9 17:09 17:16 17:22
+- B1.9 21:16 21:23 21:26
+- B2.1 21:26 21:36 21:55
+
+Sunspot number New regions Background flux Maximum flux C
+25 14 1 1 B1.08 C1.7 1
+Solar flares
+Region Start Maximum End
+- B2 01:41 01:50 01:58
+2833 B6 02:45 03:04 03:26
+2833 B2.3 13:36 13:43 13:47
+2833 C1.7 13:45 14:03 14:15
+2835 B3.1 18:39 18:48 18:57
+2835 B8.8 18:57 19:05 19:16
+
+Sunspot number New regions Background flux Maximum flux
+16 -9 0 -1 B1.31 B3.96
+Solar flares
+Region Start Maximum End
+- B3.9 02:08 02:19 02:30
+- B3.6 02:44 02:52 03:00
+2835 B2.8 09:46 09:55 10:04
+2833 B2.6 11:36 11:45 11:54
+2833 B2.7 11:53 12:02 12:08
+
+Sunspot number New regions Background flux Maximum flux
+32 16 1 1 B1.42 B5.04
+Solar flares
+Region Start Maximum End
+2835 B2.4 00:54 01:01 01:07
+2835 B3.4 20:11 20:20 20:28
+2836 B2.4 21:43 21:52 22:03
+- B5.1 23:25 23:49 00:34
+
+Sunspot number New regions Background flux Maximum flux C
+50 18 1 B1.9 C2.07 2
+Solar flares
+Region Start Maximum End
+2835 B5.2 02:00 02:10 02:35
+- B2.7 07:42 07:47 07:51
+2836 B6.9 07:54 08:08 08:24
+2836 C2.1 09:15 09:35 09:47
+- B4.5 11:26 11:33 11:39
+2835 B9.4 14:24 14:30 14:37
+2835 B5.7 17:09 17:14 17:22
+2835 B3.8 17:58 18:06 18:18
+2835 B3.7 18:18 18:22 18:28
+2835 C1.6 18:56 19:11 19:16
+2835 B7.8 19:26 19:37 21:41
+2835 B5.6 21:41 21:50 22:22
+2835 B3.1 23:09 23:15 23:22
+
+Sunspot number New regions Background flux Maximum flux
+56 6 0 -1 B1.6 B8.65
+Solar flares
+Region Start Maximum End
+- B6.9 05:14 05:37 06:00
+- B7.1 05:14 05:39 06:01
+2835 B3.4 10:30 10:39 10:44
+2837 B6.6 11:08 11:24 11:44
+2835 B8.7 12:32 12:42 12:48
+2835 B2.2 13:47 13:55 14:00
+2835 B6.3 14:37 14:42 14:46
+2835 B3.2 17:25 17:35 17:41
+2835 B3.4 19:14 19:20 19:26
+
+Sunspot number New regions Background flux Maximum flux C
+53 -3 0 B1.79 C3.67 1
+Solar flares
+Region Start Maximum End
+2835 B2.1 02:25 02:31 02:56
+2835 B2.1 02:45 02:48 02:55
+2835 B4.8 02:56 03:07 03:13
+2835 B4.8 07:03 07:23 07:39
+2835 B4.4 08:31 08:37 08:43
+2835 B3.8 12:48 12:55 13:13
+2835 B4 12:48 12:59 13:13
+2835 B3.5 17:06 17:13 17:23
+2835 C1.5 17:23 17:28 17:32
+2835 C3.7 18:09 18:15 18:19
+2835 B2.9 18:39 18:44 18:51
+2835 B2.9 23:16 23:22 23:26
+
+Sunspot number New regions Background flux Maximum flux
+56 3 0 B1.55 B6.13
+Solar flares
+Region Start Maximum End
+2835 B3 09:06 09:13 09:18
+2835 B6.2 09:17 09:24 09:29
+2835 B3 10:33 10:44 11:00
+2835 B2.9 13:20 13:26 13:30
+2835 B2.5 16:58 17:01 17:05
+2837 B2.8 17:53 18:01 18:08
+2835 B5.1 18:14 18:24 18:30
+2835 B2.8 18:45 18:56 19:09
+
+Sunspot number New regions Background flux Maximum flux
+72 16 0 B1.56 B8.59
+Solar flares
+Region Start Maximum End
+2837 B3.2 01:15 01:23 01:32
+2837 B2.8 06:11 06:17 06:33
+2837 B3.2 06:33 06:39 06:44
+2836 B3.1 10:07 10:20 10:52
+2835 B3.3 18:39 18:43 18:47
+2838 B8.6 21:48 21:54 22:02
+2835 B3.6 22:54 23:04 23:07
+2835 B5.6 23:07 23:13 23:26
+
+Sunspot number New regions Background flux Maximum flux C M X
+81 9 1 1 B3.05 X1.59 3 2 1
+Solar flares
+Region Start Maximum End
+2838 B5.1 01:02 01:15 01:22
+2838 C5.7 02:14 02:31 02:40
+2838 B5.1 04:39 04:44 04:55
+2838 C1.9 04:58 05:08 05:24
+2838 M2.7
+1
+2
+3
+07:04 07:17 07:22
+2838 C1.9 12:55 13:11 13:22
+2838 X1.59
+1
+2
+3
+14:18 14:29 14:34
+2835 B8.5 16:26 16:33 16:42
+2838 B7.6 16:52 16:55 16:59
+2838 M1
+1
+2
+3
+16:59 17:03 17:14
+- B7 20:00 20:09 20:16
+2835 B5 21:17 21:24 21:28
+2838 B5.1 21:34 21:41 21:46
+2838 B6 21:51 22:02 22:07
+2838 B6.1 23:23 23:30 23:37
+
+Sunspot number New regions Background flux Maximum flux C M
+60 -21 1 B2.44 M1.51 4 1
+Solar flares
+Region Start Maximum End
+2838 B5.6 01:03 01:17 01:24
+2838 C2 01:34 01:49 02:14
+2838 C2.1 03:26 03:36 03:44
+2838 M1.5
+1
+2
+3
+05:00 05:09 05:15
+2839 B5.6 07:42 07:49 07:52
+2839 C1.3 07:52 07:57 08:01
+2839 B4.7 10:56 10:59 11:03
+2839 B3.1 16:13 16:21 16:30
+2835 B3.1 17:24 17:35 17:53
+2835 C1.7 17:56 18:13 18:18
+2838 B5.3 21:12 21:27 21:45
+
+Sunspot number New regions Background flux Maximum flux C
+43 -17 0 -1 B1.76 C1.78 2
+Solar flares
+Region Start Maximum End
+2839 B4.6 04:19 04:31 04:50
+2835 B5.1 04:52 05:09 05:30
+2838 B2.9 09:52 10:07 10:29
+2838 B3.2 14:45 15:02 15:34
+2836 B3.2 16:14 16:22 16:29
+2838 B5.3 16:36 16:49 17:05
+2838 B4.7 17:41 17:59 18:09
+2835 C1.2 18:09 18:24 18:33
+2836 C1.8 18:37 18:43 18:53
+
+Sunspot number New regions Background flux Maximum flux C
+52 9 1 1 B1.8 C1.23 2
+Solar flares
+Region Start Maximum End
+2835 B2.6 11:23 11:29 11:38
+2835 B4.3 14:24 14:33 14:38
+2835 C1.2 19:06 19:15 19:20
+2835 B5.1 20:52 21:01 21:06
+2835 C1.1 21:44 21:50 21:54
+2835 B2.6 23:38 23:43 23:45
+2835 B3.2 23:37 23:50 23:52
+
+Sunspot number New regions Background flux Maximum flux
+25 -27 0 -1 B1.53 B7.14
+Solar flares
+Region Start Maximum End
+2835 B4.6 23:52 00:01 00:19
+2835 B3.4 03:24 03:31 03:35
+2835 B2.6 07:12 07:16 07:20
+2835 B5.6 11:25 11:34 11:38
+2835 B3 13:29 13:38 13:43
+2837 B6.8 15:16 15:46 16:17
+
+Sunspot number New regions Background flux Maximum flux
+23 -2 0 A8.75 B3.3
+Solar flares
+Region Start Maximum End
+2835 B2.5 04:09 04:16 04:29
+2840 B1.6 14:28 14:38 14:45
+2837 B1.7 17:12 17:19 17:23
+2840 B2.8 17:33 17:45 17:53
+2840 B1.4 19:09 19:14 19:19
+2840 B2.6 19:26 19:33 19:37
+2840 B1.1 19:45 19:52 19:58
+2840 B2.3 21:57 22:01 22:07
+2840 B3.2 22:13 22:19 22:25
+2840 B1 23:12 23:17 23:22
+2840 B1.2 23:22 23:36 23:50
+2840 B1.4 23:50 23:54 23:58
+
+Sunspot number New regions Background flux Maximum flux C
+23 1 1 A7.67 C7.02 3
+Solar flares
+Region Start Maximum End
+2839 B1.5 00:07 00:11 00:17
+2840 B1.9 00:17 00:22 00:26
+2840 B1.2 01:53 01:58 02:02
+2840 B1.1 02:29 02:34 02:39
+2840 B1.8 02:39 02:44 02:49
+2840 B1.5 04:35 04:40 04:43
+2840 B2.1 04:43 04:49 04:57
+2840 B2.1 07:08 07:16 07:30
+2840 C6 07:30 07:55 08:03
+2840 C7 10:31 10:50 10:58
+2840 B1.3 11:46 11:58 12:07
+2840 B1.3 12:07 12:14 12:20
+2840 B1.2 13:08 13:19 13:32
+2840 B1.2 13:32 13:41 13:49
+2840 B3.9 14:20 14:38 14:47
+2840 B8.4 14:47 14:57 15:03
+2840 C4.8 17:13 17:25 17:30
+2840 B1.2 20:05 20:12 20:18
+2841 B5.1 20:32 20:41 20:45
+2840 B1.5 22:19 22:26 22:30
+2841 B1.5 23:01 23:17 23:27
+
+Sunspot number New regions Background flux Maximum flux
+24 1 1 A4.95 B2.96
+Solar flares
+Region Start Maximum End
+2840 B2.9 01:56 02:06 02:10
+2840 B1.6 10:11 10:26 10:40
+
+Sunspot number New regions Background flux Maximum flux
+23 -1 0 -1 A3.42 B7.19
+Solar flares
+Region Start Maximum End
+2841 B7.3 01:22 01:32 01:37
+2841 B3.3 10:36 10:50 10:58
+2842 B2.1 20:37 20:47 20:56
+
+Sunspot number New regions Background flux Maximum flux
+22 -1 0 A2.32 B1.22
+Solar flares
+Region Start Maximum End
+2842 B1.2 15:29 15:38 15:43
+
+Sunspot number New regions Background flux Maximum flux
+11 -11 0 A1.82 B2.08
+Solar flares
+Region Start Maximum End
+2843 B2 18:27 18:35 18:39
+
+Sunspot number New regions Background flux Maximum flux
+23 12 1 1 A1.8 B2.11
+Solar flares
+Region Start Maximum End
+- B1.7 19:39 19:49 19:59
+- B2.1 21:20 21:31 21:54
+
+Sunspot number New regions Background flux Maximum flux
+22 -1 0 -1 A4.31 B6.74
+Solar flares
+Region Start Maximum End
+- B1.2 01:16 01:27 01:38
+- B1.2 07:23 07:35 07:44
+- B1.1 08:14 08:21 08:26
+2843 B5.3 18:44 18:56 19:00
+2843 B1.1 20:06 20:10 20:14
+2843 B2 21:01 21:10 21:14
+2843 B4.8 21:14 21:19 21:24
+2843 B4.6 23:07 23:17 23:31
+2843 B6.7 23:18 23:23 23:27
+
+Sunspot number New regions Background flux Maximum flux C
+35 13 1 1 A7.98 C1.78 2
+Solar flares
+Region Start Maximum End
+2843 B1.1 00:13 00:18 00:25
+2843 B2 00:51 01:02 01:13
+2843 B2.6 01:22 01:27 01:31
+2843 B5.8 01:58 02:10 02:21
+2843 B2.3 03:14 03:20 03:25
+2843 B2 03:39 03:48 03:52
+2843 B2.3 03:52 03:57 04:03
+2843 B4 04:34 04:42 04:48
+2843 B5 04:49 05:00 05:05
+2843 B7.8 05:49 06:02 06:11
+2843 B2.6 06:47 06:53 06:57
+2843 C1.1 07:14 07:27 07:36
+2843 C1.7 08:27 08:37 08:45
+2843 B1.7 10:30 10:41 10:51
+2843 B2.5 11:22 11:28 11:30
+2843 B2.6 11:22 11:32 11:34
+2843 B8 11:30 11:40 11:47
+2844 B4.1 12:54 12:59 13:05
+2843 B3.4 14:19 14:30 14:44
+2843 B1.4 15:51 16:00 16:09
+2843 B1.7 16:09 16:14 16:19
+2844 B1.6 16:23 16:26 16:31
+2843 B2.1 17:08 17:18 17:27
+2844 B1.2 18:20 18:27 18:33
+2844 B1.5 20:40 20:45 20:49
+
+Sunspot number New regions Background flux Maximum flux
+53 18 1 A5.38 B7.88
+Solar flares
+Region Start Maximum End
+2842 B7.8 03:01 03:17 03:30
+2842 B1.2 05:47 05:55 06:03
+2842 B1.1 08:01 08:09 08:16
+2845 B1.3 16:03 16:08 16:12
+2845 B4.2 16:07 16:16 16:20
+2842 B1.3 16:39 16:49 17:01
+2845 B4.5 17:01 17:14 17:19
+2845 B2.2 17:41 17:43 17:47
+2845 B1.7 18:28 18:36 18:40
+2842 B1.2 18:40 18:51 19:01
+2845 B1.6 19:01 19:07 19:11
+2843 B2 21:39 21:47 21:55
+2843 B2.6 23:27 23:46 00:04
+
+Sunspot number New regions Background flux Maximum flux
+42 -11 0 -1 B1.14 B9.75
+Solar flares
+Region Start Maximum End
+2845 B2.5 01:43 01:47 01:51
+2843 B3.4 01:58 02:09 02:24
+2843 B3.4 02:53 03:01 03:05
+2843 B2.4 03:35 03:53 04:05
+2843 B2.7 04:05 04:12 04:17
+2843 B9.7 06:56 07:10 07:22
+- B1.6 10:14 10:23 10:30
+- B2.2 16:43 16:50 16:54
+- B2.1 16:53 17:00 17:04
+- B3.7 19:31 19:42 19:52
+
+Sunspot number New regions Background flux Maximum flux C
+45 3 1 1 B1.61 C1.29 1
+Solar flares
+Region Start Maximum End
+- B4.4 01:20 01:29 01:43
+- B2.1 04:49 04:55 05:01
+2842 B4 13:39 13:46 13:52
+- B6.8 17:20 17:53 18:18
+- C1.2 18:19 19:07 19:27
+
+Sunspot number New regions Background flux Maximum flux C
+59 14 1 B2.04 C1.09 1
+Solar flares
+Region Start Maximum End
+- B4.8 13:30 13:39 13:45
+- B5 13:45 13:51 13:58
+- B5.2 15:36 15:46 15:51
+- B5 15:51 15:56 16:00
+- B5.5 16:17 16:33 16:46
+2846 B5.6 20:12 20:24 20:31
+- C1.1 23:18 23:27 23:37
+
+Sunspot number New regions Background flux Maximum flux C
+86 27 2 1 B2.29 C1.34 2
+Solar flares
+Region Start Maximum End
+2847 B3.4 02:00 02:09 02:15
+- B7.3 09:08 09:35 09:52
+- B8.8 09:52 09:58 10:07
+2847 B5.9 10:53 11:00 11:07
+2842 B8.7 11:50 11:58 12:06
+2842 B9.4 13:39 13:48 13:55
+2845 B6.4 15:09 15:21 15:33
+2845 B7.7 15:36 15:42 15:51
+2849 C1.2 15:55 16:04 16:11
+2845 C1.3 19:47 20:05 20:19
+2845 B5.1 22:22 22:30 22:43
+
+Sunspot number New regions Background flux Maximum flux
+77 -9 0 -2 B2 B4.88
+Solar flares
+Region Start Maximum End
+2849 B4.8 13:12 13:16 13:21
+
+Sunspot number New regions Background flux Maximum flux C
+46 -31 0 B1.57 B5.65 1
+Solar flares
+Region Start Maximum End
+- B4.5 01:51 02:19 02:39
+- B4.1 09:58 10:04 10:08
+2849 B2.9 14:07 14:14 14:20
+- B3.7 16:32 16:39 16:43
+2849 B2.7 17:47 17:54 17:58
+2849 B5.6 18:52 19:01 19:05
+2849 B5.1 19:17 19:31 19:44
+2849 B3 20:43 20:50 20:57
+2849 B3.1 20:57 21:03 21:08
+
+Sunspot number New regions Background flux Maximum flux C
+35 -11 0 B1.76 C4.34 1
+Solar flares
+Region Start Maximum End
+2849 C4.3 23:52 00:33 01:02
+2849 C1.5 01:57 02:06 02:10
+2849 B4.4 08:10 08:16 08:22
+2849 B2.7 11:44 11:52 11:58
+
+Sunspot number New regions Background flux Maximum flux
+24 -11 0 B1 B2.52
+Solar flares
+Region Start Maximum End
+- B2.4 04:41 04:57 05:14
+- B1.7 13:25 13:35 13:44
+- B2.1 23:34 23:49 23:59
+
+Sunspot number New regions Background flux Maximum flux
+25 1 0 A8.49 B2.24
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+25 0 A7.13 B9.8
+Solar flares
+Region Start Maximum End
+- B1.9 01:59 02:13 02:41
+2846 B5.2 19:15 19:23 19:29
+2846 B5.3 21:40 21:50 21:57
+2849 C1 22:08 22:26 22:40
+
+Sunspot number New regions Background flux Maximum flux
+0 -25 0 A5.84 B6.96
+Solar flares
+Region Start Maximum End
+2846 B1 02:06 02:13 02:18
+2846 B1.1 05:05 05:11 05:15
+2846 B1.4 05:18 05:26 05:32
+2846 B1.1 05:39 05:44 05:49
+2846 B7.1 07:24 07:38 07:43
+2846 B3 13:53 14:00 14:05
+- B1.1 16:24 16:30 16:35
+2846 B1.7 21:08 21:14 21:21
+2846 B1.3 23:08 23:12 23:20
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A4.74 B1.16
+Solar flares
+Region Start Maximum End
+2849 B1.1 19:25 19:34 19:43
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A3.94 A7.13
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A3.82 B2.43
+Solar flares
+Region Start Maximum End
+2849 B2.4 16:05 17:48 19:41
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A3.73 A6.62
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+13 13 1 1 A4.42 B1.09
+Solar flares
+Region Start Maximum End
+2850 B1 18:29 18:35 18:38
+
+Sunspot number New regions Background flux Maximum flux
+15 2 0 -1 A6.12 B1.15
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+14 -1 0 A5.63 B5.92
+Solar flares
+Region Start Maximum End
+2850 B5.9 03:13 03:29 03:39
+2850 B1.1 12:25 12:31 12:35
+
+Sunspot number New regions Background flux Maximum flux
+36 22 2 2 A5.5 B1.6
+Solar flares
+Region Start Maximum End
+- B1.3 22:24 22:34 22:56
+- B1.4 23:22 23:31 23:41
+
+Sunspot number New regions Background flux Maximum flux
+0 -36 0 -2 A7.88 B2.66
+Solar flares
+Region Start Maximum End
+2851 B1.3 07:07 07:12 07:16
+2850 B1.2 15:23 15:31 15:37
+2850 B2.5 19:12 19:21 19:37
+2850 B1.9 23:39 23:48 23:55
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A5.99 B5.44
+Solar flares
+Region Start Maximum End
+2850 B5.4 16:47 17:01 17:13
+
+Sunspot number New regions Background flux Maximum flux C
+11 11 0 A5.13 B8.75 1
+Solar flares
+Region Start Maximum End
+2853 B1.1 23:40 23:48 23:50
+
+Sunspot number New regions Background flux Maximum flux
+0 -11 1 1 A4.84 C1.4
+Solar flares
+Region Start Maximum End
+2853 C1.3 23:46 00:04 00:17
+2853 B1.7 01:13 01:22 01:30
+2853 B1.6 01:47 01:57 02:01
+2853 B1.8 02:04 02:08 02:12
+2853 B1 03:41 03:49 04:03
+2853 B1.4 05:51 06:04 06:12
+2853 B1.5 13:50 14:05 14:20
+2853 B1.5 15:49 15:59 16:03
+2853 B2.9 18:11 18:20 18:24
+
+Sunspot number New regions Background flux Maximum flux
+0 0 -1 A3.78 A6.47
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+22 22 2 2 A4.41 A9.43
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 -11 0 -2 A4.63 B1.1
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 -11 0 A3.77 C1.5
+Solar flares
+Region Start Maximum End
+2853 B1.2 16:14 16:23 16:29
+2853 C1.4 20:59 21:08 21:12
+
+Sunspot number New regions Background flux Maximum flux
+47 47 2 2 A3.83 A7.06
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+23 -24 0 -2 A3.6 B1.02
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+14 -9 0 A4.85 B3.41
+Solar flares
+Region Start Maximum End
+2857 B3.4 07:05 07:11 07:16
+2857 B1.2 09:15 09:22 09:32
+
+Sunspot number New regions Background flux Maximum flux
+13 -1 0 A3.94 A9.1
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+16 3 1 1 A3.75 B2.86
+Solar flares
+Region Start Maximum End
+2858 B1.5 18:14 18:22 18:27
+2858 B2.1 18:27 18:34 18:43
+2858 B2.8 19:58 20:07 20:11
+
+Sunspot number New regions Background flux Maximum flux
+25 9 0 -1 A3.68 B2.11
+Solar flares
+Region Start Maximum End
+- B1.3 15:26 15:37 15:49
+- B2 15:48 16:17 16:44
+
+Sunspot number New regions Background flux Maximum flux C
+14 -11 0 B1.16 C3.09 2
+Solar flares
+Region Start Maximum End
+- B1.3 03:19 03:29 03:39
+- B1.5 04:37 04:41 04:52
+2859 B3.9 05:25 05:48 06:11
+- B2.8 06:11 06:16 06:17
+- B2.8 06:11 06:23 06:28
+- B2.9 06:17 06:26 06:28
+- B2.9 06:28 06:34 06:39
+- B3 06:28 06:43 06:48
+- B2.9 06:39 06:45 06:50
+- B3 06:48 06:57 07:11
+2859 B4.2 08:49 09:01 09:10
+2859 B2.4 12:56 13:05 13:09
+- B2.4 13:09 13:13 13:17
+2859 B9.4 14:17 14:30 14:51
+2859 C1.8 15:45 15:48 15:50
+2859 C3.1 15:50 15:57 16:01
+2859 C2.3 16:41 16:49 16:59
+- C1.5 21:30 21:59 22:14
+2859 C1.4 21:30 22:00 22:14
+2859 B4.2 22:48 22:55 23:01
+
+Sunspot number New regions Background flux Maximum flux
+25 11 1 1 B1.11 B4.98
+Solar flares
+Region Start Maximum End
+2859 B1.7 00:34 00:42 00:52
+2859 B2.5 00:52 00:58 01:05
+2859 B3.2 02:36 02:46 03:08
+2859 B3.3 04:05 04:10 04:20
+2859 B2.6 04:30 04:38 04:43
+2859 B1.9 06:20 06:34 06:40
+2859 B3.2 08:01 08:10 08:14
+2859 B2 10:08 10:15 10:26
+2859 B2.1 10:26 10:37 10:46
+- B3.3 10:46 11:03 11:13
+- B5.1 11:28 11:36 11:41
+- B4 18:36 18:42 18:46
+- B4.1 20:54 20:58 21:02
+2859 B3.9 21:14 21:18 21:22
+- B2.7 21:57 22:04 22:09
+- B4.8 22:11 22:15 22:20
+- B4.6 22:26 22:30 22:35
+
+Sunspot number New regions Background flux Maximum flux C
+16 -9 0 -1 B1.21 C1.98 3
+Solar flares
+Region Start Maximum End
+- B2.4 00:02 00:08 00:12
+- B3.5 00:18 00:28 00:35
+2859 C1 00:43 00:52 00:56
+- B3.3 01:23 01:32 01:47
+2859 C1.2 04:09 04:14 04:22
+2859 B1.9 05:20 05:26 05:30
+2859 B1.9 05:34 05:39 06:00
+2859 B2.5 06:00 06:07 06:13
+- B5.3 08:27 08:31 08:37
+- B3.7 10:00 10:09 10:16
+- C1.9 10:16 10:19 10:24
+2859 C1.9 10:16 10:20 10:24
+- B4.5 14:46 15:02 15:14
+- B1.8 20:30 20:38 20:44
+- B1.1 21:48 21:57 22:02
+- B1.5 23:33 23:41 23:46
+
+Sunspot number New regions Background flux Maximum flux
+14 -2 0 A8.2 B2.13
+Solar flares
+Region Start Maximum End
+- B1.5 00:51 00:55 00:59
+- B2.1 01:03 01:13 01:24
+- B1.5 15:26 15:33 15:37
+- B1.4 16:11 16:20 16:29
+- B1.3 18:21 18:28 18:34
+- B1.2 20:41 20:47 20:51
+
+Sunspot number New regions Background flux Maximum flux C
+29 15 1 1 A7.19 C1.53 2
+Solar flares
+Region Start Maximum End
+2859 B1.2 04:01 04:08 04:12
+2859 B2 11:52 12:00 12:03
+2859 B9 12:03 12:16 12:24
+2859 B3.3 13:35 13:45 13:49
+2859 C1.5 14:18 14:49 15:09
+2859 B2.4 19:41 19:44 19:48
+2860 B2.4 22:01 22:07 22:11
+2859 B2 22:12 22:19 22:22
+2859 B2.4 22:22 22:27 22:32
+
+Sunspot number New regions Background flux Maximum flux C
+29 0 -1 B1.27 C1.12 1
+Solar flares
+Region Start Maximum End
+2860 C1.1 01:16 01:24 01:37
+2860 B3 15:35 15:42 15:48
+2860 B4.1 15:57 16:02 16:07
+2860 B1.8 21:17 21:24 21:28
+2859 B2.1 23:10 23:17 23:21
+2860 B2.4 23:39 23:45 23:54
+
+Sunspot number New regions Background flux Maximum flux C
+47 18 1 1 B1.37 C3.98 3
+Solar flares
+Region Start Maximum End
+2859 B6.4 05:21 05:32 05:44
+2861 B2.6 09:35 09:41 09:46
+2861 B7.3 10:40 10:51 11:00
+2860 B2.8 12:02 12:10 12:17
+2860 B3.7 12:16 12:23 12:28
+2860 B5.6 13:47 14:03 14:08
+2859 B2.6 17:28 17:37 17:46
+2859 C3 17:48 18:18 18:42
+2860 C1.3 18:57 19:01 19:05
+2861 B7.6 20:03 20:12 20:17
+2860 B4.4 21:22 21:34 21:51
+2860 B3.8 21:51 21:56 21:58
+2860 B5.9 21:58 22:04 22:10
+2859 B7.4 22:40 22:50 22:56
+2860 C4 23:16 23:22 23:26
+2860 B3.7 23:39 23:43 23:47
+
+Sunspot number New regions Background flux Maximum flux C
+73 26 1 B1.68 C7.39 4
+Solar flares
+Region Start Maximum End
+2860 B3.3 01:45 01:51 01:55
+2860 B9.3 06:03 06:15 06:21
+2860 B3.6 07:10 07:16 07:22
+2860 B2.6 12:10 12:17 12:29
+2860 B2.6 12:29 12:40 12:45
+2860 B2.5 12:29 12:42 12:45
+2860 C1.5 12:45 12:56 13:07
+2862 C1.1 15:04 15:14 15:24
+2862 B4.7 16:06 16:16 16:22
+2862 B7.8 17:08 17:18 17:28
+2862 B4.4 18:01 18:08 18:13
+2862 B4.8 18:22 18:30 18:39
+2860 B4.5 18:39 18:44 18:48
+- C1.7 20:14 20:21 20:25
+2860 C7.4 20:32 21:09 21:43
+
+Sunspot number New regions Background flux Maximum flux C M
+77 4 0 -1 B3.72 M4.79 7 1
+Solar flares
+Region Start Maximum End
+- C1.2 23:55 00:00 00:05
+- B6 00:41 00:45 00:49
+- B5.8 00:59 01:07 01:16
+2860 C1 02:26 02:47 03:03
+- C1 04:01 04:09 04:19
+2860 C1 04:40 04:46 05:01
+2860 C7 05:01 05:05 05:09
+2860 M4.79
+1
+2
+3
+05:39 06:11 06:23
+2860 C4.3 08:38 08:46 08:58
+2860 C2.8 11:47 11:55 12:04
+2860 C1.7 12:36 12:50 13:08
+2860 C1.7 13:08 13:11 13:15
+2860 B8.9 14:21 14:27 14:42
+- B6.4 15:53 16:02 16:12
+- B6.5 16:12 16:16 16:20
+2860 C1.4 16:26 16:43 16:55
+- B5 19:08 19:21 19:28
+
+Sunspot number New regions Background flux Maximum flux C
+44 -33 0 B1.75 C8.13 3
+Solar flares
+Region Start Maximum End
+2860 C5.4 00:15 00:28 00:34
+2860 C7.5 00:34 00:44 00:50
+2860 B3.6 03:53 03:58 04:02
+- B7.4 06:30 06:35 06:39
+- B8.9 08:22 08:32 08:39
+- C1.1 08:39 08:43 08:47
+2860 C8.2 09:54 10:03 10:07
+2860 C3 17:01 17:30 17:51
+2860 B9 18:28 18:31 18:35
+- B8.6 20:02 20:20 20:50
+- B8.6 20:01 20:22 20:51
+
+Sunspot number New regions Background flux Maximum flux C
+41 -3 0 B2.81 C3.02 6
+Solar flares
+Region Start Maximum End
+- B7.4 01:21 01:29 01:36
+2860 C1.6 01:42 01:54 02:00
+2860 B7.2 03:02 03:06 03:10
+2860 C1.3 03:48 03:58 04:04
+- B3.6 04:48 04:53 04:57
+- B3.5 07:52 07:58 08:07
+2860 C1.1 09:29 09:39 09:54
+- C1.1 13:29 13:41 13:55
+- B7 14:40 14:49 14:53
+2860 B7.7 14:57 15:04 15:15
+2860 B9 16:07 16:16 16:20
+2860 C2.1 16:20 16:24 16:28
+- B7.8 18:17 18:25 18:34
+2860 C1.7 19:29 19:40 19:45
+2860 B7.9 20:44 20:52 21:03
+2860 C3 21:25 21:34 21:38
+
+Sunspot number New regions Background flux Maximum flux
+37 -4 0 B1.38 B8.41
+Solar flares
+Region Start Maximum End
+- B1.9 07:00 07:04 07:08
+2860 B2 10:55 11:01 11:26
+2860 B2.6 12:55 13:01 13:06
+2860 B3.5 13:14 13:19 13:26
+2860 B7.2 14:08 14:21 14:28
+2860 B5.7 14:42 14:50 14:54
+2860 B6.2 14:54 14:57 15:01
+2860 B2.7 16:19 16:27 16:31
+2860 B6.6 16:41 16:50 16:54
+2860 B2.2 17:45 17:49 17:57
+2860 B2.3 18:22 18:28 18:32
+2860 B7.3 18:57 19:11 19:24
+2860 B2.5 19:42 19:46 19:50
+2860 B3 19:55 20:02 20:06
+2860 B2.2 21:01 21:06 21:11
+
+Sunspot number New regions Background flux Maximum flux C
+35 -2 0 B1.28 C1.27 1
+Solar flares
+Region Start Maximum End
+2860 B1.9 00:40 00:48 00:55
+2680 B1.9 03:03 03:10 03:16
+2680 B2.6 04:27 04:33 04:37
+2860 B2.5 06:40 06:44 06:48
+2860 C1.2 08:44 08:54 08:59
+- B2 10:48 11:03 11:11
+2860 C1 12:56 13:18 13:21
+2860 C1.2 13:20 13:31 13:43
+
+Sunspot number New regions Background flux Maximum flux C
+33 -2 1 1 B1.49 C1.28 1
+Solar flares
+Region Start Maximum End
+2863 B3.9 00:41 00:46 00:50
+2860 B2.8 03:27 03:38 03:49
+2863 B4 03:49 03:52 03:58
+2863 B2 05:46 05:51 05:58
+- B4.2 11:37 11:50 11:58
+2860 C1.2 20:31 20:55 21:20
+2863 B3.1 23:25 23:33 23:37
+2863 B3.6 23:37 23:42 23:47
+
+Sunspot number New regions Background flux Maximum flux
+33 1 B1.4 B6.37
+Solar flares
+Region Start Maximum End
+2863 B3.8 00:39 00:47 00:58
+2863 B4.7 06:30 06:39 06:45
+2863 B2.9 09:36 09:42 09:46
+2863 B6.3 15:59 16:06 16:27
+2860 B5.5 20:47 21:02 21:04
+2860 B5.7 20:47 21:12 21:30
+
+Sunspot number New regions Background flux Maximum flux
+68 35 3 2 B1.86 B8.52
+Solar flares
+Region Start Maximum End
+2860 B4 00:02 00:14 00:27
+2860 B3.6 01:41 01:49 01:52
+2860 B4.6 01:52 01:57 02:01
+2860 B8.6 02:01 02:23 02:35
+2860 B5.4 04:17 04:30 04:43
+2860 B8.1 07:37 07:50 08:17
+2860 B5.8 11:37 11:46 11:56
+2860 B4.6 12:14 12:22 12:31
+2860 B5.1 13:00 13:07 13:26
+2860 B6.3 14:56 15:32 15:55
+
+Sunspot number New regions Background flux Maximum flux
+66 -2 0 -3 B2.26 B7.92
+Solar flares
+Region Start Maximum End
+- B4.6 02:10 02:16 02:20
+- B6.4 03:10 03:24 03:42
+2868 B5.3 10:56 11:11 11:32
+2866 B5.1 12:52 13:00 13:06
+2866 B5.2 12:52 13:02 13:06
+
+Sunspot number New regions Background flux Maximum flux
+80 14 0 B2.59 B6.04
+Solar flares
+Region Start Maximum End
+- B4.3 05:08 05:15 05:20
+2868 B5.1 05:52 05:59 06:03
+2863 B4.7 12:59 13:04 13:08
+2863 B4.7 16:57 17:01 17:05
+2866 B4 19:21 19:30 19:35
+2866 B4.6 21:15 21:19 21:28
+2866 B4.5 21:28 21:31 21:35
+
+Sunspot number New regions Background flux Maximum flux C
+85 5 0 B2.3 C1.59 1
+Solar flares
+Region Start Maximum End
+2866 B7.5 01:44 01:56 02:06
+2866 B5.7 03:29 03:39 03:46
+- B4 04:49 04:59 05:09
+2863 B6.2 06:24 06:28 06:33
+2866 B6.9 09:15 09:26 09:29
+2866 C1.1 09:29 09:34 09:39
+2866 B4.9 11:50 12:01 12:05
+- B3.8 12:46 12:57 13:08
+
+Sunspot number New regions Background flux Maximum flux C
+87 2 1 1 B2.5 C8.34 4
+Solar flares
+Region Start Maximum End
+2864 C2.4 23:42 00:10 00:33
+2866 B4.8 01:37 01:42 01:48
+2868 C1.1 03:03 03:14 03:19
+2868 B4.4 04:26 04:30 04:34
+2866 C1.2 10:20 10:26 10:31
+- B9 12:12 12:21 12:25
+2868 C2.4 12:46 12:58 13:04
+2866 B7.7 15:00 15:11 15:29
+2866 C8.4 17:11 17:30 17:49
+2866 B4.6 23:07 23:23 23:34
+
+Sunspot number New regions Background flux Maximum flux C
+124 37 1 B2.44 C3.52 1
+Solar flares
+Region Start Maximum End
+2866 C3.5 08:09 08:31 08:43
+2868 B6.8 09:58 10:07 10:12
+2866 B7.2 16:58 17:08 17:10
+2866 B8.2 17:10 17:16 17:20
+2868 B7.5 22:30 22:55 23:33
+2868 B7.6 22:30 22:57 23:33
+
+Sunspot number New regions Background flux Maximum flux C
+99 -25 0 -1 B2.21 C1.1 1
+Solar flares
+Region Start Maximum End
+2866 B4.4 10:45 10:49 10:53
+2868 C1.1 20:48 21:34 22:13
+
+Sunspot number New regions Background flux Maximum flux C
+93 -6 0 B6.99 1
+Solar flares
+Region Start Maximum End
+2868 B5.2 03:11 03:15 03:19
+2868 B3.9 04:19 04:28 04:38
+2868 B7.8 04:42 04:52 05:03
+2868 C1.3 05:11 05:19 05:28
+2869 B7.1 07:15 07:28 07:37
+2868 B5.4 07:37 07:43 07:47
+2866 B4.9 13:14 13:22 13:29
+2866 B4.3 15:31 15:36 15:42
+2866 B4.5 17:47 17:54 18:03
+2869 B5.3 22:41 22:51 23:01
+
+Sunspot number New regions Background flux Maximum flux
+47 -46 0 B2.23 B6.58
+Solar flares
+Region Start Maximum End
+2868 B5 22:15 22:22 22:27
+2868 B4.9 22:38 22:40 22:44
+2868 B6.7 23:32 23:41 23:45
+
+Sunspot number New regions Background flux Maximum flux
+32 -15 0 B2.19 B8.06
+Solar flares
+Region Start Maximum End
+- B8.2 02:51 02:58 03:02
+2868 B5.8 12:31 12:39 12:45
+2868 B3.3 17:30 17:44 17:48
+2868 B6.1 17:48 17:55 17:59
+
+Sunspot number New regions Background flux Maximum flux C
+13 -19 0 B1.4 C1.12 1
+Solar flares
+Region Start Maximum End
+2866 B3 01:34 01:41 01:45
+2868 B4.4 03:24 03:30 03:37
+2868 B8.7 03:37 03:46 03:52
+2869 B2.4 04:14 04:21 04:25
+2869 B3.7 04:25 04:29 04:34
+2868 B4.9 04:44 04:51 04:58
+2869 B2.8 05:32 05:40 05:47
+2868 C1.1 06:40 06:49 06:53
+2868 B2.6 14:04 14:12 14:17
+2868 B2 15:58 16:05 16:11
+2868 B1.8 16:12 16:17 16:31
+2868 B1.8 16:11 16:19 16:31
+2868 B2.4 16:31 16:39 16:43
+2868 B3.7 18:00 18:09 18:22
+2866 B2.4 19:09 19:19 19:32
+
+Sunspot number New regions Background flux Maximum flux
+0 -13 0 B1.05 B4.19
+Solar flares
+Region Start Maximum End
+2869 B4.2 01:00 01:15 01:23
+2869 B1.8 02:00 02:09 02:20
+2869 B2.2 05:01 05:11 05:26
+2869 B2.4 09:42 09:51 09:58
+2869 B2 10:49 10:57 11:03
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A6.08 B1.52
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux C
+0 0 A5.28 C3.53 1
+Solar flares
+Region Start Maximum End
+2871 B2.3 03:06 03:26 03:58
+2871 C3.5 04:09 04:20 04:48
+2871 C5.5 04:07 04:28 04:44
+
+Sunspot number New regions Background flux Maximum flux C
+11 11 1 1 A5.27 C2.69 2
+Solar flares
+Region Start Maximum End
+2871 B1.4 00:21 00:30 00:37
+2871 B2.1 00:37 00:46 00:55
+2871 B1.8 01:03 01:11 01:19
+2871 B1.6 05:02 05:14 05:24
+2871 C1.5 07:47 08:15 08:18
+2871 C2.6 07:47 08:27 08:33
+
+Sunspot number New regions Background flux Maximum flux C
+13 2 0 -1 A3.8 C1.64 1
+Solar flares
+Region Start Maximum End
+2871 B1.9 23:48 00:00 00:06
+2871 C1.6 01:03 01:15 01:22
+2871 B6.1 01:30 01:35 01:39
+2871 B1.3 05:51 05:59 06:03
+2871 B1.3 06:52 07:00 07:05
+2871 B1.3 09:29 09:36 09:41
+2871 B1.5 09:29 09:46 09:50
+2871 B1.6 18:02 18:10 18:14
+2871 B2.7 19:32 19:40 19:44
+
+Sunspot number New regions Background flux Maximum flux
+51 38 2 2 A6.37 B8.19
+Solar flares
+Region Start Maximum End
+2871 B1 05:56 06:04 06:08
+2871 B1.1 05:56 06:15 06:21
+2871 B1.2 06:25 06:29 06:33
+2871 B2.2 07:53 08:02 08:06
+2871 B1 08:23 08:30 08:34
+2871 B2.2 09:00 09:09 09:12
+2871 B2.4 09:00 09:15 09:20
+2871 B8.1 09:24 09:36 09:43
+2871 B1.9 10:29 10:36 10:38
+2871 B6.4 10:38 10:43 10:48
+- B1.4 12:52 12:58 13:02
+- B2.3 13:39 13:49 13:54
+- B1.4 14:04 14:11 14:16
+- B1 17:11 17:16 17:20
+- B1.5 18:18 18:26 18:33
+- B2.5 19:01 19:10 19:16
+- B4 19:17 19:25 19:29
+- B2.1 19:38 19:41 19:45
+- B1.6 20:40 20:44 20:49
+2871 B2.5 20:55 21:00 21:04
+2871 B3.3 21:36 21:42 21:46
+2871 B2.7 23:04 23:11 23:21
+
+Sunspot number New regions Background flux Maximum flux C
+50 -1 0 -2 B1.03 C1.85 3
+Solar flares
+Region Start Maximum End
+2871 B2.7 03:33 03:40 03:46
+2871 B2.1 04:26 04:29 04:39
+2871 B4.1 04:57 05:09 05:13
+2871 B3.1 05:20 05:29 05:36
+2873 B2.3 06:44 06:49 06:54
+- B2 08:20 08:26 08:32
+2873 C1.1 08:53 09:03 09:16
+2871 B2.3 09:42 09:48 09:50
+2871 B3 09:43 09:55 10:00
+2873 B8.9 10:06 10:16 10:21
+2873 B5.2 11:06 11:11 11:16
+2873 C1.8 11:43 11:53 11:57
+2871 B1.8 12:23 12:29 12:31
+2871 B3.3 12:31 12:38 12:44
+2873 B1.6 14:17 14:29 14:34
+2871 B1.9 16:56 17:03 17:07
+2871 B1.7 18:08 18:11 18:18
+2871 B2.1 18:05 18:16 18:18
+2871 C1.1 18:18 18:28 18:35
+2871 B1.6 19:07 19:15 19:23
+2871 B5.2 20:15 20:25 20:30
+2872 B4.2 23:51 23:55 23:59
+
+Sunspot number New regions Background flux Maximum flux C
+76 26 2 2 B1.15 C1.11 1
+Solar flares
+Region Start Maximum End
+2871 B1.8 01:52 01:58 02:02
+2871 B3.2 03:14 03:26 03:41
+2871 B2.3 04:17 04:21 04:26
+2871 B2.4 05:22 05:29 05:33
+2871 B1.7 06:15 06:21 06:30
+2871 B2.2 07:56 08:03 08:11
+2871 B2.1 07:56 08:05 08:11
+2871 B3 08:53 09:04 09:16
+2871 B3.2 09:57 10:07 10:16
+2872 B3.4 11:17 11:25 11:30
+- B1.7 11:58 12:03 12:11
+- B1.7 12:28 12:31 12:40
+- B2.7 13:07 13:16 13:21
+- B1.8 13:32 13:42 13:48
+- B2.3 13:49 13:52 13:56
+- B1.5 14:17 14:22 14:29
+- B1.6 15:11 15:17 15:29
+- B1.3 17:51 17:57 18:05
+- B1.5 18:05 18:11 18:31
+- B1.6 18:20 18:23 18:27
+- B2.6 19:40 19:50 19:55
+2871 C1.1 20:04 20:14 20:20
+- B1.7 21:47 21:51 22:01
+- B1.4 22:08 22:14 22:20
+- B2.8 22:20 22:27 22:31
+- B1.8 23:51 23:58 00:06
+
+Sunspot number New regions Background flux Maximum flux C M
+75 -1 0 -2 B1.3 M1.89 1 1
+Solar flares
+Region Start Maximum End
+2871 B2.8 01:36 01:45 01:56
+2875 B2.3 02:04 02:14 02:20
+- B2 02:55 03:05 03:14
+2871 B3.1 03:43 03:55 04:02
+2871 C5.3 04:17 04:32 04:35
+2871 M2.8 04:35 04:42 04:50
+2871 B4.2 08:00 08:07 08:12
+- B7.1 12:35 12:45 12:50
+2871 B6 13:43 13:55 14:02
+2871 B5.3 15:03 15:14 15:23
+2871 M1.89 15:23 15:28 15:39
+- B3.1 19:16 19:24 19:28
+- B1.8 20:23 20:28 20:32
+2871 C1 20:34 20:41 20:46
+- B3 20:56 21:00 21:04
+
+Sunspot number New regions Background flux Maximum flux C
+75 1 1 B1.21 C2.99 1
+Solar flares
+Region Start Maximum End
+2871 B1.8 02:46 02:52 02:56
+2871 B1.7 03:00 03:07 03:12
+2871 B2.2 06:33 06:42 06:51
+2871 C3 06:56 07:01 07:05
+2871 B3 09:57 10:08 10:13
+2872 B1.8 15:57 16:05 16:09
+2871 B2.1 16:10 16:16 16:19
+2871 B4 16:12 16:24 16:30
+2871 B5.4 17:57 18:12 18:23
+2871 B4.4 18:22 18:33 18:41
+2875 B2.4 20:19 20:23 20:27
+2871 B2.5 21:10 21:16 21:20
+2871 B3.4 21:25 21:30 21:34
+2871 B3.2 22:50 22:55 22:59
+2871 B1.8 23:21 23:30 23:34
+2872 B1.9 23:34 23:38 23:42
+
+Sunspot number New regions Background flux Maximum flux C
+38 -37 0 -1 B1.51 C1.72 3
+Solar flares
+Region Start Maximum End
+2871 B2.6 00:25 00:33 00:38
+2871 C1 01:16 01:31 01:36
+2871 B1.9 03:06 03:12 03:18
+2871 C1.4 03:27 03:54 04:04
+2871 B3.5 05:33 05:55 06:12
+2871 B5.5 07:46 07:57 08:10
+2871 B6 08:10 08:13 08:18
+- B3 08:45 09:01 09:28
+2871 C1 11:10 11:30 11:37
+2871 B7.9 11:45 11:54 11:59
+2871 B7.3 11:59 12:04 12:08
+2871 B1.9 14:11 14:20 14:39
+2871 B2.1 16:04 16:11 16:16
+2871 B2.3 17:32 17:39 17:46
+2871 B1.9 19:00 19:07 19:11
+2871 C1.7 19:11 19:17 19:21
+2871 B5 23:01 23:10 23:18
+
+Sunspot number New regions Background flux Maximum flux C
+67 29 2 2 A9.83 C1.67 2
+Solar flares
+Region Start Maximum End
+2871 B1.6 00:15 00:23 00:30
+2871 B6.3 00:31 00:39 00:47
+2871 B2.1 04:15 04:22 04:28
+2877 B2.8 05:24 05:35 05:41
+- B4.3 06:08 06:18 06:26
+2873 C1 06:25 06:31 06:38
+2871 B1.8 09:13 09:17 09:21
+2877 B2.4 10:57 11:06 11:10
+2871 C1.6 11:19 11:24 11:28
+2872 B3.7 15:38 15:47 16:10
+2871 B2.4 22:44 23:00 23:17
+
+Sunspot number New regions Background flux Maximum flux
+30 -37 1 -1 B1.2 B4.58
+Solar flares
+Region Start Maximum End
+2871 B2 08:58 09:07 09:11
+2871 B2.6 08:58 09:23 09:30
+- B4.6 11:40 11:46 11:50
+- B4.3 13:11 13:22 13:38
+- B3.6 19:38 19:45 19:51
+- B2.5 23:46 23:54 00:11
+
+Sunspot number New regions Background flux Maximum flux C
+57 27 2 1 B1.51 C1.65 1
+Solar flares
+Region Start Maximum End
+2871 B3.5 01:37 01:47 01:56
+2871 B3 02:49 02:59 03:05
+2871 B3.1 04:30 04:38 04:45
+2871 B6.9 05:24 05:40 05:54
+2871 C1.6 05:54 06:34 06:54
+2871 B2.8 23:08 23:16 23:21
+
+Sunspot number New regions Background flux Maximum flux C
+74 17 0 -2 B3.05 C2.87 5
+Solar flares
+Region Start Maximum End
+2880 B4.1 00:13 00:18 00:24
+2880 B3.9 01:25 01:32 01:43
+2880 C1.4 02:08 02:18 02:23
+2877 B8.6 11:11 11:19 11:25
+2877 B5.4 13:51 14:03 14:13
+2877 C1 14:15 14:21 14:25
+2877 B7.4 16:22 16:29 16:35
+2877 B7.2 19:16 19:25 19:47
+2877 C2.8 21:46 21:56 22:02
+2877 C1.4 22:10 22:13 22:17
+2877 C1.7 22:34 22:45 22:50
+2877 B6.9 23:04 23:09 23:20
+
+Sunspot number New regions Background flux Maximum flux C
+46 -28 0 B2.26 C1.22 1
+Solar flares
+Region Start Maximum End
+2877 B9.5 05:42 05:49 05:55
+2877 B5 07:50 07:57 08:06
+2877 B8.3 08:31 08:39 08:45
+2880 B4.9 10:18 10:23 10:28
+2877 B6.6 11:46 11:49 11:53
+2877 B3.1 12:09 12:14 12:18
+2877 B5.5 12:19 12:24 12:30
+2877 C1.2 12:43 12:49 12:55
+2877 B3 14:54 15:03 15:24
+2877 B2.8 17:28 17:32 17:37
+2877 B3.3 18:16 18:25 18:33
+
+Sunspot number New regions Background flux Maximum flux
+28 -18 0 B1.58 B8.74
+Solar flares
+Region Start Maximum End
+2877 B4.7 10:38 10:55 11:20
+2877 B8.6 10:38 11:00 11:06
+2877 B3 18:33 18:48 19:00
+2880 B3.2 21:29 21:39 21:47
+
+Sunspot number New regions Background flux Maximum flux C
+25 -3 0 B1.36 C1.68 1
+Solar flares
+Region Start Maximum End
+2880 B2.1 08:30 08:35 08:39
+2880 B2.7 08:39 08:47 08:51
+- B2.5 13:05 13:12 13:17
+2877 B2.8 17:54 18:07 18:17
+2877 C1.7 22:23 22:40 22:57
+
+Sunspot number New regions Background flux Maximum flux C
+38 13 1 1 B1.21 C1.88 1
+Solar flares
+Region Start Maximum End
+2877 B4.8 04:08 04:16 04:30
+2877 C1.9 07:07 07:22 07:46
+2880 B2.4 10:18 10:28 10:35
+2877 B1.8 13:53 14:01 14:06
+2880 B3.1 16:20 16:30 16:34
+2877 B2.3 21:24 21:34 21:50
+
+Sunspot number New regions Background flux Maximum flux
+29 -9 0 -1 A9.96 B9.23
+Solar flares
+Region Start Maximum End
+2877 B3.2 00:20 00:31 00:42
+2877 B7.7 02:25 02:38 02:52
+2877 B9.4 02:52 03:07 03:18
+2877 B1.6 08:31 08:38 08:40
+2877 B1.6 08:40 08:56 09:01
+2880 B2.4 09:53 10:03 10:09
+2882 B1.6 13:36 13:43 13:51
+- B2.4 15:39 15:56 16:18
+2882 B2.1 16:55 17:02 17:07
+2880 B1.1 18:42 18:48 18:52
+
+Sunspot number New regions Background flux Maximum flux
+27 -2 0 A8.97 B2.07
+Solar flares
+Region Start Maximum End
+- B1.4 03:54 03:58 04:02
+2880 B1.7 11:19 11:26 11:33
+
+Sunspot number New regions Background flux Maximum flux
+22 -5 0 B1.13 B7.66
+Solar flares
+Region Start Maximum End
+2882 B5 01:02 01:12 01:18
+2882 B1.5 01:51 01:58 02:04
+- B1.5 02:39 02:47 02:54
+- B1.7 02:56 03:01 03:06
+- B1.6 03:31 03:39 03:43
+- B1.4 04:29 04:34 04:40
+2880 B1.9 12:22 12:29 12:35
+2882 B2 13:10 13:17 13:21
+2882 B2.4 15:57 16:11 16:19
+2882 B2.4 16:19 16:24 16:30
+2882 B3.1 19:41 19:54 20:03
+2882 B7.9 22:05 22:20 22:27
+
+Sunspot number New regions Background flux Maximum flux C
+13 -9 0 A9.98 C5.51 2
+Solar flares
+Region Start Maximum End
+2882 B2.5 00:28 00:34 00:38
+2882 B2.2 00:40 00:48 01:04
+2882 C5.5 02:35 02:46 02:54
+- B1.8 06:08 06:18 06:27
+- B2.4 08:08 08:19 08:27
+- B1.4 10:17 10:23 10:28
+2882 B1.7 12:09 12:15 12:21
+- B2.7 13:17 13:27 13:37
+- B1.4 21:33 21:39 21:45
+- C1 22:13 22:31 22:43
+
+Sunspot number New regions Background flux Maximum flux C
+13 0 B1.03 C2.75 2
+Solar flares
+Region Start Maximum End
+- B1.3 02:06 02:13 02:19
+- B1.7 03:50 03:53 03:57
+- B1.9 04:18 04:24 04:28
+- B1.7 04:49 04:55 04:59
+- B1.9 05:58 06:01 06:07
+- B1.5 06:32 06:36 06:40
+- B1.6 07:08 07:12 07:18
+- B3.9 07:37 07:40 07:44
+- C1.6 10:26 10:41 11:01
+2882 C1.9 11:01 11:08 11:15
+- B2.1 18:15 18:21 18:27
+- B1.9 18:26 18:31 18:37
+2882 C2.8 19:19 19:57 20:16
+
+Sunspot number New regions Background flux Maximum flux C M
+14 1 0 B1.11 M1.6 1 1
+Solar flares
+Region Start Maximum End
+- B1.8 00:17 00:24 00:28
+- B5.3 01:00 01:11 01:19
+- B6 01:18 01:29 01:49
+2882 M1.6
+1
+2
+3
+06:19 06:38 06:53
+2882 B2.5 18:55 19:06 19:24
+2882 B3.1 20:30 20:45 20:48
+2882 B6.6 20:48 21:10 21:25
+2882 C2.1 22:42 22:57 23:06
+
+Sunspot number New regions Background flux Maximum flux C
+38 24 2 2 B1.11 C2.37 1
+Solar flares
+Region Start Maximum End
+- B2 04:27 04:35 04:41
+- B2.1 08:06 08:12 08:17
+2883 B1.9 15:53 15:58 16:03
+- B2 16:11 16:16 16:21
+- C2.3 22:28 23:02 23:20
+
+Sunspot number New regions Background flux Maximum flux
+35 -3 0 -2 B1.07 B5.29
+Solar flares
+Region Start Maximum End
+- B3.5 07:46 07:57 08:23
+- B3 08:04 08:08 08:12
+2882 B2 14:41 14:53 15:00
+2882 B2 16:09 16:14 16:20
+2883 B1.5 17:45 17:53 18:07
+2883 B1.9 19:18 19:25 19:29
+2883 B2 19:37 19:45 19:49
+2883 B4.6 20:17 20:26 20:30
+
+Sunspot number New regions Background flux Maximum flux
+26 -9 0 A8.93 B9.56
+Solar flares
+Region Start Maximum End
+2882 B9.5 01:36 01:46 01:51
+2882 B6.2 01:52 02:01 02:03
+2882 B7.3 01:52 02:16 02:30
+2882 B8.7 02:30 02:45 03:01
+2882 B1.3 10:54 10:58 11:02
+2882 B1.3 11:07 11:14 11:19
+2882 B1.4 11:11 11:22 11:27
+2882 B1.3 12:04 12:11 12:17
+- B1.6 12:57 13:05 13:10
+- B1.1 14:04 14:10 14:16
+2882 B5.9 15:53 16:02 16:13
+2882 B1.8 16:33 16:44 16:48
+2882 B1.9 22:45 22:52 23:00
+
+Sunspot number New regions Background flux Maximum flux
+27 1 1 1 A7.48 C1.35
+Solar flares
+Region Start Maximum End
+- B2.1 06:21 06:29 06:33
+2882 B3.4 09:53 10:14 10:22
+2882 B4.8 10:22 10:31 10:42
+2885 B1.4 14:03 14:11 14:19
+2885 B1.8 17:09 17:16 17:20
+- B1.8 18:10 18:18 18:28
+2885 C1 18:28 18:33 18:38
+2885 B4.8 20:13 20:22 20:27
+2885 B3.8 20:32 20:35 20:39
+2885 B5.4 21:07 21:17 21:22
+2885 B2.8 21:27 21:31 21:35
+2885 C1.3 21:38 21:56 22:02
+2885 C1.3 22:02 22:05 22:09
+2885 B2.1 23:25 23:32 23:36
+2885 B4.8 23:47 23:50 00:15
+
+Sunspot number New regions Background flux Maximum flux C
+24 -3 0 -1 A7.13 C2.27 2
+Solar flares
+Region Start Maximum End
+2885 B3.8 00:15 00:23 00:34
+2885 B5.3 00:57 01:02 01:06
+2885 C2.2 01:24 01:34 01:40
+2885 B4.3 02:06 02:10 02:14
+2885 B4.4 02:28 02:31 02:35
+2885 C1.1 02:35 02:52 02:54
+2885 C1.8 02:54 03:04 03:14
+2885 B2.8 05:08 05:13 05:18
+2885 B3.3 05:19 05:24 05:36
+2885 B1.1 12:47 12:54 13:06
+2885 B1 13:06 13:10 13:14
+2885 B1 13:14 13:19 13:21
+2885 B1.1 13:21 13:25 13:29
+2885 B1 15:06 15:13 15:19
+2885 B1.2 15:19 15:23 15:27
+
+Sunspot number New regions Background flux Maximum flux
+11 -13 0 A5.35 B9.7
+Solar flares
+Region Start Maximum End
+2885 B9.9 15:01 15:16 15:29
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A6 B3.15
+Solar flares
+Region Start Maximum End
+2882 B1.4 00:35 00:41 00:47
+- B1.6 11:32 11:40 11:44
+
+Sunspot number New regions Background flux Maximum flux
+0 -11 0 A4.99 B1.82
+Solar flares
+Region Start Maximum End
+- B1.2 05:24 05:30 05:35
+- B1.6 05:50 05:57 06:02
+- B1.8 06:15 06:23 06:28
+
+Sunspot number New regions Background flux Maximum flux
+11 11 1 1 A2.91 B1.23
+Solar flares
+Region Start Maximum End
+- B1 03:07 03:14 03:22
+- B1.2 03:22 03:33 03:40
+
+Sunspot number New regions Background flux Maximum flux
+11 0 -1 A2.69 A4.9
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+11 0 A4.25 B4.67
+Solar flares
+Region Start Maximum End
+2887 B1.1 18:14 18:22 18:28
+2887 B1.1 19:56 20:04 20:10
+2887 B1.1 20:31 20:39 20:45
+2887 B1.2 20:45 20:54 21:00
+2887 B1.8 21:00 21:09 21:16
+2887 B1.8 21:26 21:32 21:34
+2887 B4.8 21:34 21:46 21:58
+2887 B1.2 23:00 23:08 23:15
+2887 B1.2 23:15 23:26 23:32
+
+Sunspot number New regions Background flux Maximum flux
+11 0 B1.33 B8.78
+Solar flares
+Region Start Maximum End
+2887 B1.4 03:40 03:48 04:01
+2887 B1.4 03:41 03:50 04:01
+2887 B1.4 05:27 05:34 05:37
+2887 B6.2 05:37 05:42 05:48
+2887 B7.4 06:53 07:05 07:12
+2887 B3.8 08:02 08:15 08:30
+2887 B3.1 11:52 12:15 12:27
+2887 B2.8 12:46 12:53 13:05
+2887 B2.6 13:26 13:34 13:37
+2887 B2.9 13:35 13:41 13:46
+2887 B2.5 14:49 14:56 15:02
+2887 B2.6 14:49 15:00 15:02
+2887 B8.9 15:02 15:15 15:32
+2887 B2.3 19:29 19:35 19:44
+2887 B2.4 20:30 20:37 20:42
+2887 B2.6 21:22 21:25 21:30
+2887 B2.5 21:44 21:51 22:04
+2887 B4.6 22:08 22:13 22:17
+2887 B3.1 22:27 22:36 22:42
+2887 B2.5 23:35 23:42 23:49
+
+Sunspot number New regions Background flux Maximum flux
+28 17 1 1 B1.76 B9.63
+Solar flares
+Region Start Maximum End
+2887 B3.4 02:39 02:49 02:56
+2887 B4.5 15:09 15:13 15:17
+2887 B4.3 16:06 16:12 16:20
+2887 B6.3 17:46 17:55 17:59
+- B9.7 18:30 18:38 18:48
+
+Sunspot number New regions Background flux Maximum flux
+32 4 0 -1 B1.97 B6.22
+Solar flares
+Region Start Maximum End
+2887 B3.6 01:06 01:11 01:17
+2887 B5.5 02:19 02:24 02:30
+2887 B4.7 03:00 03:10 03:20
+2887 B3.6 06:53 06:59 07:11
+- B6.3 12:01 12:11 12:17
+2887 B3.3 12:53 12:56 13:01
+2887 B3.8 13:59 14:02 14:06
+2887 B3.4 14:44 14:49 14:55
+2887 B3.7 18:04 18:12 18:17
+2887 B3.8 23:01 23:10 23:17
+
+Sunspot number New regions Background flux Maximum flux
+46 14 1 1 B2.32 B6.07
+Solar flares
+Region Start Maximum End
+2887 B3.3 07:37 07:44 07:49
+2887 B4.7 09:12 09:17 09:21
+2887 B6.2 18:12 18:18 18:22
+
+Sunspot number New regions Background flux Maximum flux C
+81 35 2 1 B2.83 C8.57 3
+Solar flares
+Region Start Maximum End
+2887 B4.6 02:29 02:37 02:49
+2887 B4.4 05:26 05:36 05:47
+2887 B6.5 06:10 06:21 06:30
+2887 B5.5 16:20 16:23 16:29
+2890 B6.7 16:35 16:38 16:42
+- B5.1 18:34 18:41 18:47
+- C8.5 19:46 19:56 20:01
+- C4.5 21:55 22:03 22:16
+- C1.6 23:31 23:35 23:39
+
+Sunspot number New regions Background flux Maximum flux C M
+95 14 1 -1 B7.01 M1.33 12 2
+Solar flares
+Region Start Maximum End
+2887 C2 00:12 00:19 00:30
+- C9.4 00:48 01:04 01:13
+2889 C3.5 01:43 01:50 01:56
+- M1.3 02:40 02:47 02:54
+2889 C2 03:18 03:24 03:29
+2889 C2.3 04:27 04:33 04:37
+- C1.9 05:20 05:25 05:29
+2887 C7.9 05:56 06:04 06:10
+2891 C5 09:43 09:52 10:02
+2891 C4.9 11:11 11:25 11:31
+2891 C3.1 13:25 13:38 13:48
+2891 M1
+1
+15:42 15:57 16:02
+2891 C1.2 22:45 22:52 23:00
+2891 C2.1 23:10 23:19 23:25
+
+Sunspot number New regions Background flux Maximum flux C
+91 -4 0 -1 B5.81 C8.51 17
+Solar flares
+Region Start Maximum End
+2887 C1 03:50 03:57 04:03
+2887 C2.9 05:22 05:35 05:41
+2887 C3.1 05:41 05:45 05:47
+2887 C8.6 05:47 06:08 06:20
+2887 C1.5 07:00 07:10 07:14
+- C1.7 08:44 08:49 08:56
+2887 B7.4 09:38 09:45 09:50
+2887 C2.8 09:50 09:54 09:59
+- C1.6 10:14 10:29 10:36
+2889 C1.7 11:48 11:59 12:08
+2889 C2.3 12:11 12:19 12:25
+2887 C1.1 13:35 13:42 13:48
+2891 C2.1 16:21 16:36 16:44
+2891 C1.4 17:57 18:05 18:13
+2891 C2.2 18:48 18:58 19:04
+2891 C2.2 20:44 20:50 20:58
+- C1.1 21:52 22:00 22:05
+2887 C1.6 22:07 22:22 22:27
+2887 C1.1 22:35 22:44 23:00
+
+Sunspot number New regions Background flux Maximum flux C M X
+96 5 0 B6.14 X1 9 2 1
+Solar flares
+Region Start Maximum End
+2887 C1.2 01:32 01:38 01:45
+2887 M1.42 07:30 07:40 07:45
+2887 C1.1 09:56 10:00 10:05
+2887 M2.2 10:19 10:28 10:37
+2887 C1.2 12:09 12:17 12:27
+2891 C2.3 12:26 12:38 12:50
+2887 C3.3 13:14 13:21 13:25
+2887 C3.9 13:46 13:59 14:05
+2887 X1
+1
+2
+3
+15:17 15:35 15:48
+2891 C3.2 18:07 18:10 18:15
+2891 C3.2 19:34 19:45 19:47
+2891 C3.2 19:47 19:53 19:57
+2891 C1.6 21:02 21:07 21:11
+
+Sunspot number New regions Background flux Maximum flux C M
+82 -14 0 B3.66 M1.56 5 1
+Solar flares
+Region Start Maximum End
+2891 B7.1 02:04 02:13 02:22
+2891 M1.5
+1
+02:22 02:42 02:53
+2891 C4.8 05:42 05:58 06:00
+2891 C6 06:00 06:07 06:15
+2887 C1.1 07:26 07:45 08:05
+2891 B7.5 10:46 10:55 11:10
+2891 C1.5 11:18 11:26 11:37
+2887 B8.6 12:07 12:15 12:20
+2887 C2.5 13:20 13:30 13:40
+2891 B7.2 18:14 18:21 18:25
+2891 B8.7 19:05 19:14 19:18
+2891 B9.4 22:00 22:09 22:26
+2891 B7.8 23:31 23:38 23:43
+
+Sunspot number New regions Background flux Maximum flux C
+76 -6 1 1 B3.31 C3.92 7
+Solar flares
+Region Start Maximum End
+2891 B6.6 02:27 02:41 02:58
+2891 C3.9 03:07 03:15 03:19
+2887 B6.5 05:20 05:29 05:38
+2891 B6.8 08:40 08:47 08:51
+2891 C1 09:13 09:22 09:32
+2891 C1.1 09:32 09:36 09:41
+2891 C1.7 09:47 09:53 09:58
+2891 B9 13:33 13:44 13:48
+2891 C3.1 15:12 15:29 15:38
+2891 C1.3 16:18 16:21 16:25
+2891 B7.9 17:52 17:56 18:00
+2887 B8.1 19:26 19:31 19:37
+2891 B6.6 19:49 19:57 20:04
+2887 C1 21:22 21:29 21:35
+2887 B6.4 22:24 22:31 22:39
+2887 B7 23:45 23:52 23:58
+
+Sunspot number New regions Background flux Maximum flux C
+83 7 1 B3.51 C3.22 4
+Solar flares
+Region Start Maximum End
+2887 B8.8 01:17 01:21 01:28
+2891 C1.8 03:20 03:24 03:30
+2891 C3 06:53 07:06 07:12
+2887 C1.3 18:16 18:27 18:32
+2887 C3.2 19:51 20:00 20:04
+2887 B8.2 21:30 21:38 21:47
+
+Sunspot number New regions Background flux Maximum flux C M
+53 -30 0 -1 B1.95 M1.56 4 1
+Solar flares
+Region Start Maximum End
+2887 M1.5
+1
+2
+3
+00:57 01:45 02:10
+2887 B5.2 13:23 13:31 13:42
+2887 C1.3 17:28 18:01 18:44
+2891 C2.1 20:35 20:44 20:48
+2887 C4.1 21:05 21:32 21:50
+- C4.4 21:50 21:58 22:02
+2891 C4.5 23:35 23:40 23:44
+
+Sunspot number New regions Background flux Maximum flux C M
+42 -11 0 B3.95 M1.72 2 1
+Solar flares
+Region Start Maximum End
+2891 M1.67 02:03 02:51 02:57
+2891 M1.72
+1
+2
+3
+02:57 03:01 03:05
+2891 C2 07:37 07:40 07:44
+2887 C1 12:55 13:05 13:16
+2887 B4.7 21:08 21:13 21:17
+
+Sunspot number New regions Background flux Maximum flux C
+41 -1 0 B1.75 C5.24 1
+Solar flares
+Region Start Maximum End
+- B7.2 00:09 00:16 00:20
+2891 B4.4 00:56 01:11 01:32
+- B4.1 08:16 08:30 09:04
+- B3.5 14:03 14:18 14:32
+2891 B3.4 14:32 14:36 14:41
+2891 B3.3 14:32 14:38 14:42
+2887 B4.3 14:43 14:50 14:57
+2887 B5.5 15:00 15:13 15:18
+- B5.4 15:18 15:22 15:26
+2887 B2.8 18:35 18:43 18:47
+2887 C5.3 20:53 21:16 21:41
+
+Sunspot number New regions Background flux Maximum flux C
+28 -13 0 B2.07 C3.54 3
+Solar flares
+Region Start Maximum End
+- B3.1 09:49 09:58 10:18
+2894 B3.4 09:54 10:06 10:20
+- C3.5 10:36 10:53 11:09
+2894 C3.5 10:34 10:55 11:09
+- B5.2 11:58 12:05 12:09
+- C1 12:25 12:35 12:40
+2891 B5.4 13:29 13:46 14:20
+- C3 14:38 14:53 15:02
+2894 B4.6 18:21 18:30 18:41
+2894 B3.2 23:38 23:50 00:11
+
+Sunspot number New regions Background flux Maximum flux C
+40 12 1 1 B1.58 C2.32 2
+Solar flares
+Region Start Maximum End
+2894 B3.8 01:44 01:53 01:57
+- B4.5 08:32 08:50 09:06
+- B2.4 10:09 10:16 10:19
+2887 B2.5 10:18 10:23 10:27
+2894 B3.1 11:59 12:03 12:09
+2894 B8.8 13:05 13:23 13:36
+2891 C1.7 15:21 15:30 15:34
+2894 B8.8 15:40 15:46 15:50
+- B9.9 15:50 15:55 15:59
+2891 B7.7 16:23 16:34 16:39
+- B2.3 18:54 19:05 19:14
+2891 B7.3 19:35 19:43 19:47
+2894 C2.3 21:36 21:57 22:16
+2894 B3.9 23:10 23:16 23:23
+
+Sunspot number New regions Background flux Maximum flux C
+41 1 0 -1 B1.52 C1.78 2
+Solar flares
+Region Start Maximum End
+- B3.1 01:00 01:10 01:22
+- B3.3 01:22 01:40 01:42
+- B4.8 01:42 02:23 02:43
+2894 B6.7 02:43 02:47 02:51
+- C1.1 03:22 03:47 03:56
+- B9.4 04:07 04:18 04:28
+- B3.8 05:24 05:32 05:39
+- B3.5 06:49 07:00 07:09
+- B3.7 07:15 07:20 07:24
+2894 B9.1 07:31 07:43 07:51
+2894 B4.5 09:28 09:34 09:42
+- B2.9 10:35 10:44 10:54
+- B2.7 10:54 11:01 11:06
+2894 C1.7 12:29 12:39 12:44
+- B2.7 15:13 15:17 15:22
+- B2.8 15:47 15:53 15:57
+- B2.4 16:45 16:49 16:58
+- B3.2 19:51 19:56 20:17
+- B3.3 19:48 19:58 20:16
+2984 B6.6 22:01 22:08 22:12
+2891 B2.8 23:22 23:39 23:42
+2891 B3.7 23:42 23:49 23:58
+
+Sunspot number New regions Background flux Maximum flux
+28 -13 0 B1.15 B7.11
+Solar flares
+Region Start Maximum End
+- B4.1 00:03 00:08 00:14
+2894 B1.4 01:20 01:25 01:32
+2894 B1.7 06:30 06:37 06:45
+- B1.9 06:45 06:51 06:55
+- B2 07:54 08:08 08:20
+- B6.8 09:55 10:35 11:26
+- B1.6 16:21 16:26 16:32
+- B1.6 18:29 18:37 18:41
+- B1.3 22:35 22:40 22:47
+
+Sunspot number New regions Background flux Maximum flux C
+41 13 1 1 B1.35 C1.29 2
+Solar flares
+Region Start Maximum End
+- B2.7 01:50 02:08 02:17
+- B3.3 02:21 02:31 02:39
+- B7.3 04:52 05:10 05:21
+2895 C1.2 07:29 07:51 08:10
+2895 C1 09:14 09:30 09:41
+2895 B2.1 10:42 10:48 10:55
+- B1.9 19:16 19:23 19:27
+- B3.1 19:27 19:34 19:39
+2894 B2.2 19:46 19:54 20:04
+2895 B2.3 20:08 20:13 20:17
+2895 B3.4 22:44 22:51 22:55
+
+Sunspot number New regions Background flux Maximum flux M
+40 -1 0 -1 B1.34 M2.02 1
+Solar flares
+Region Start Maximum End
+2895 B5.8 01:53 02:14 02:28
+- B1.8 07:39 07:49 07:54
+- B1.9 08:47 09:02 09:11
+- B2.1 09:11 09:21 09:27
+- B2.3 09:12 09:23 09:27
+2891 M2
+1
+15:47 17:02 17:37
+
+Sunspot number New regions Background flux Maximum flux
+37 -3 0 B1.51 B6.43
+Solar flares
+Region Start Maximum End
+- B4.8 04:06 04:14 04:22
+- B3.5 06:26 06:32 06:38
+- B2.9 13:01 13:11 13:19
+- B2.2 14:10 14:16 14:24
+- B2.3 16:27 16:41 16:47
+- B1.7 17:45 17:52 17:55
+- B3.6 17:55 18:03 18:10
+- B2 18:59 19:06 19:12
+- B2.2 20:26 20:36 20:45
+- B1.7 22:47 22:54 23:03
+- B1.4 23:31 23:38 23:43
+
+Sunspot number New regions Background flux Maximum flux
+39 2 0 A9.03 B4.3
+Solar flares
+Region Start Maximum End
+- B1.8 03:39 03:44 03:48
+- B2.4 03:50 03:55 04:01
+2895 B3.9 04:12 04:23 04:30
+- B1.5 07:09 07:21 07:31
+- B1.7 08:59 09:08 09:13
+- B1.5 15:19 15:29 15:37
+2895 B4.3 18:06 18:28 18:38
+2895 B1.7 22:18 22:28 22:44
+
+Sunspot number New regions Background flux Maximum flux
+39 0 A7.27 B6.53
+Solar flares
+Region Start Maximum End
+- B1.1 19:08 19:22 19:30
+2894 B1.2 19:30 19:34 19:47
+2894 B1.6 19:47 20:08 20:20
+2894 B6.6 22:24 23:01 23:34
+
+Sunspot number New regions Background flux Maximum flux C
+24 -15 0 A7.71 C1.25 1
+Solar flares
+Region Start Maximum End
+2894 B1.6 02:49 02:56 03:00
+2895 B1.7 03:00 03:04 03:11
+2894 B1.5 05:54 06:03 06:08
+2894 C1.2 08:33 08:43 08:47
+2895 B1.6 14:54 15:07 15:19
+
+Sunspot number New regions Background flux Maximum flux
+23 -1 1 1 A5.61 B1.7
+Solar flares
+Region Start Maximum End
+- B1.2 12:24 12:31 12:36
+- B1.6 18:31 18:45 18:53
+
+Sunspot number New regions Background flux Maximum flux
+23 0 -1 A6.81 B2.66
+Solar flares
+Region Start Maximum End
+2895 B1.2 07:10 07:12 07:16
+2895 B2.6 09:54 10:05 10:12
+
+Sunspot number New regions Background flux Maximum flux
+35 12 1 1 A7.61 B2.42
+Solar flares
+Region Start Maximum End
+- B1.1 07:07 07:14 07:17
+- B1.8 07:16 07:33 07:37
+2894 B2 07:37 07:48 07:55
+- B1.4 10:45 10:54 10:59
+- B1.4 12:07 12:18 12:23
+- B1.7 14:50 15:03 15:07
+- B1.4 15:26 15:33 15:38
+- B1.7 16:30 16:37 16:42
+- B1.1 17:20 17:27 17:37
+- B2.3 17:40 17:46 17:55
+- B2.5 18:47 19:02 19:18
+- B1.8 21:15 21:24 21:32
+
+Sunspot number New regions Background flux Maximum flux
+33 -2 0 -1 A3.58 B2.69
+Solar flares
+Region Start Maximum End
+- B1.4 03:36 03:52 04:06
+2897 B2.7 04:49 04:53 05:02
+- B1 06:07 06:14 06:22
+- B1.2 08:38 08:47 08:50
+- B1.6 08:50 08:58 09:03
+- B1.8 09:59 10:06 10:10
+- B1.2 10:05 10:13 10:17
+2895 B2.5 15:01 15:05 15:09
+
+Sunspot number New regions Background flux Maximum flux
+22 -11 0 A2.16 B1.53
+Solar flares
+Region Start Maximum End
+- B1.5 15:35 15:46 16:03
+
+Sunspot number New regions Background flux Maximum flux
+22 0 A1.67 A5.57
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+22 0 A2.45 A4.41
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+22 0 A2.09 A6.88
+Solar flares
+Region Start Maximum End
+- B1.3 12:25 12:35 12:39
+
+Sunspot number New regions Background flux Maximum flux
+22 0 A1.78 A5.66
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+39 17 1 1 A3.29 B1.17
+Solar flares
+Region Start Maximum End
+- B1.1 02:37 02:42 02:46
+
+Sunspot number New regions Background flux Maximum flux
+39 0 -1 A4.79 B1.63
+Solar flares
+Region Start Maximum End
+2898 B1.3 16:20 16:29 16:40
+2898 B1 20:26 20:33 20:39
+- B1.5 20:57 21:03 21:11
+
+Sunspot number New regions Background flux Maximum flux
+20 -19 0 A5.71 B1.39
+Solar flares
+Region Start Maximum End
+2898 B1.3 03:35 03:42 03:48
+
+Sunspot number New regions Background flux Maximum flux
+52 32 2 2 A9.47 B5.03
+Solar flares
+Region Start Maximum End
+- B1.3 08:00 08:07 08:11
+2900 B3.7 10:25 10:40 10:45
+2900 B4.9 10:45 10:50 10:54
+2900 B2 12:08 12:13 12:18
+- B2.2 12:32 12:41 12:48
+- B2.2 13:20 13:26 13:30
+- B2.2 13:36 13:42 13:51
+- B3.8 14:22 14:37 14:44
+2898 B3.9 14:44 14:59 15:06
+2898 B2.5 20:10 20:21 20:34
+2900 B1.5 23:09 23:17 23:21
+
+Sunspot number New regions Background flux Maximum flux
+53 1 0 -2 B1.09 B5.1
+Solar flares
+Region Start Maximum End
+2900 B1.7 00:13 00:26 00:40
+2900 B1.8 01:12 01:19 01:26
+2900 B2.8 03:38 03:54 04:12
+2900 B5.1 04:18 04:50 05:11
+2899 B3 08:32 08:46 09:00
+2898 B2.3 09:27 09:37 09:44
+2900 B1.8 16:18 16:22 16:27
+2898 B2.7 19:41 19:52 19:57
+2900 B3.8 23:16 23:30 23:54
+
+Sunspot number New regions Background flux Maximum flux
+53 1 1 B1.85 B8.49
+Solar flares
+Region Start Maximum End
+2897 B2.2 03:34 03:41 03:47
+2900 B4.2 07:47 07:55 08:00
+2900 B4.3 08:00 08:04 08:14
+2900 B4.8 08:11 08:21 08:25
+2900 B8.6 08:49 08:59 09:14
+2900 B7 09:18 09:24 09:32
+2898 B6.3 10:04 10:16 10:22
+2899 B6.4 13:26 13:38 13:47
+2900 B3.4 16:29 16:36 16:43
+2900 B5.4 18:19 18:26 18:40
+2900 B3 20:52 20:59 21:03
+2900 B3.6 22:39 22:45 22:51
+
+Sunspot number New regions Background flux Maximum flux
+47 -6 0 -1 B1.6 B5.44
+Solar flares
+Region Start Maximum End
+2900 B5.5 00:01 00:12 00:31
+2900 B3.8 01:48 02:00 02:05
+- B2.9 12:46 12:54 13:01
+- B4.8 13:02 13:11 13:18
+- B3 13:49 13:55 14:01
+
+Sunspot number New regions Background flux Maximum flux
+61 14 2 2 B1.17 B3.13
+Solar flares
+Region Start Maximum End
+- B3 00:12 00:20 00:33
+- B3.1 02:51 02:58 03:19
+- B2.2 06:21 06:30 06:33
+- B2.3 06:33 06:41 06:45
+
+Sunspot number New regions Background flux Maximum flux
+37 -24 0 -2 A7.89 B2.76
+Solar flares
+Region Start Maximum End
+- B2.2 07:34 07:39 07:43
+- B1.3 13:37 13:46 13:50
+- B1.2 15:20 15:27 15:32
+- B1.9 16:35 16:43 16:47
+- B1.3 22:49 22:56 23:02
+- B1.7 22:50 23:01 23:02
+- B2.4 23:02 23:12 23:19
+
+Sunspot number New regions Background flux Maximum flux
+45 8 0 A5.63 B2.11
+Solar flares
+Region Start Maximum End
+2902 B2 12:26 12:44 12:55
+2902 B1.2 13:43 13:51 13:57
+2902 B1.7 14:40 14:52 15:01
+
+Sunspot number New regions Background flux Maximum flux
+29 -16 0 A9.49 B3.75
+Solar flares
+Region Start Maximum End
+- B1.1 01:21 01:31 01:48
+- B1.3 01:23 01:33 01:48
+- B2.7 02:38 02:56 03:04
+2898 B1.9 04:27 04:35 04:41
+2898 B1.9 04:27 04:37 04:42
+2898 B1.4 05:34 05:41 05:54
+2902 B1.1 09:55 10:01 10:13
+2902 B1.7 11:18 11:27 11:31
+2898 B3.7 20:54 21:16 21:37
+2898 B3.5 21:37 21:42 21:47
+
+Sunspot number New regions Background flux Maximum flux C
+35 6 1 1 B2.08 C7.14 10
+Solar flares
+Region Start Maximum End
+- B3.2 03:22 03:29 03:35
+- B3.3 04:17 04:23 04:27
+2898 C4.2 04:43 05:15 05:34
+2898 C2.5 06:44 06:52 06:56
+2898 C1.4 07:14 07:24 07:31
+2898 C2.3 07:34 07:54 08:00
+2898 C1.2 08:19 08:26 08:34
+2898 B6.8 08:54 09:01 09:08
+2898 C1 10:05 10:09 10:15
+2898 C1.2 10:15 10:19 10:23
+2898 B4.4 11:42 11:50 12:00
+2898 B4.6 12:00 12:10 12:14
+- B4.4 13:03 13:14 13:30
+- C1.8 15:04 15:34 15:48
+- C1.9 15:48 16:00 16:12
+- C1.3 19:30 19:41 19:51
+2898 B5.8 21:50 21:58 22:05
+2898 C1.6 22:07 22:15 22:25
+2898 C7.2 23:21 23:59 00:14
+
+Sunspot number New regions Background flux Maximum flux C M
+36 1 0 -1 B1.26 M1.45 5 1
+Solar flares
+Region Start Maximum End
+2898 C1.1 00:54 00:57 01:02
+2898 C3.9 01:03 01:09 01:15
+2898 C4.9 03:13 03:23 03:35
+2898 C2.2 06:08 06:19 06:29
+2898 M1.4
+1
+06:58 07:19 07:36
+- B2.8 10:41 10:49 11:01
+- B2.6 16:10 16:22 16:30
+- B7.2 18:24 18:54 19:14
+2898 B6.9 18:23 18:56 19:14
+- C1.6 19:14 19:37 19:56
+2898 B1.9 22:28 22:41 23:00
+
+Sunspot number New regions Background flux Maximum flux C
+14 -22 0 A5.87 C1.32 2
+Solar flares
+Region Start Maximum End
+- B2.2 00:20 00:24 00:28
+- B2 02:04 02:18 02:54
+- B4.8 04:18 04:52 05:03
+- B7.1 04:59 05:07 05:11
+- B5.4 05:27 05:34 05:37
+2902 B9 05:37 05:52 06:14
+2902 C1.3 06:16 06:22 06:29
+2902 C1.3 06:50 06:53 06:57
+2904 B9.6 07:40 07:50 07:55
+- B3.6 13:55 14:01 14:05
+- B1.2 18:18 18:34 18:58
+
+Sunspot number New regions Background flux Maximum flux
+13 -1 0 A1.05 B1.83
+Solar flares
+Region Start Maximum End
+- B1.8 18:56 19:05 19:13
+
+Sunspot number New regions Background flux Maximum flux
+0 -13 0 A0.67 A4.02
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A0.58 A7.59
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A1.31 A7.83
+Solar flares
+Region Start Maximum End
+None
+
+Sunspot number New regions Background flux Maximum flux
+0 0 A3.28 B1.28
+Solar flares
+Region Start Maximum End
+- B1.2 18:47 18:52 18:56
+
+Sunspot number New regions Background flux Maximum flux C
+12 12 1 1 A4.14 C1.21 1
+Solar flares
+Region Start Maximum End
+- B6.6 05:40 05:46 05:50
+- B1.6 08:07 08:17 08:25
+- B5 20:41 20:52 20:56
+- B8.4 20:56 21:04 21:09
+- C1.2 21:09 21:14 21:22
+
+Sunspot number New regions Background flux Maximum flux
+40 28 2 1 A4.9 B3.68
+Solar flares
+Region Start Maximum End
+- B1.4 06:17 06:25 06:32
+2907 B2.9 16:24 16:37 16:44
+2907 B1.9 17:30 17:38 17:44
+2907 B3.1 19:11 19:23 19:30
+2907 B1.7 20:58 21:09 21:10
+- B3.7 21:10 21:30 21:42
+- B2.1 23:32 23:42 23:50
+
+Sunspot number New regions Background flux Maximum flux C
+40 0 -2 B2.14 C6.04 4
+Solar flares
+Region Start Maximum End
+- B2.7 01:51 02:03 02:18
+- B2.3 02:17 02:28 02:32
+2906 B2.5 05:40 05:48 05:52
+2906 B4.9 06:35 06:42 06:51
+2906 B3.6 07:48 07:55 07:59
+2907 C1.4 08:15 08:26 08:36
+2906 B4.2 10:08 10:18 10:22
+2906 B3.9 10:37 10:43 10:47
+2906 B2.3 11:00 11:09 11:15
+2906 B4.1 11:29 11:38 11:46
+2906 B3.5 12:16 12:19 12:23
+2906 B3.2 12:53 13:00 13:24
+2907 B6.4 13:49 14:06 14:20
+2907 B4.6 14:52 15:00 15:11
+2906 B8 15:23 15:30 15:39
+2907 B7.7 15:39 15:45 15:51
+2907 C1.1 15:51 16:03 16:20
+2907 C1.3 16:35 16:49 16:56
+2906 B5.9 18:19 18:30 18:39
+2907 C1.7 20:23 20:33 20:43
+2907 C3.1 20:43 20:53 21:00
+2906 C1.6 21:55 22:06 22:12
+2907 C3 23:12 23:25 23:44
+2907 C6.1 23:44 23:49 23:56
+
+Sunspot number New regions Background flux Maximum flux C
+79 39 2 2 B5.02 C8.18 8
+Solar flares
+Region Start Maximum End
+2907 C2.1 01:36 01:46 01:55
+2907 C2.9 02:57 03:04 03:09
+2907 C2 03:38 03:46 03:51
+2907 C4.6 04:07 04:21 04:32
+2907 C2.9 04:48 04:54 04:58
+2907 C1.7 05:47 05:58 06:08
+2907 C1.7 06:08 06:12 06:16
+2907 C1.6 08:38 08:52 09:05
+2907 C1.5 09:05 09:22 09:34
+2907 C1.8 10:04 10:10 10:13
+2907 C2.3 10:13 10:22 10:32
+2907 C8.1 10:31 10:44 10:48
+2907 C2.7 12:08 12:17 12:27
+2907 C1.5 14:09 14:13 14:21
+2907 C4.5 14:27 14:34 14:38
+2907 B7.5 17:16 17:23 17:32
+
+Sunspot number New regions Background flux Maximum flux C
+127 48 2 B4.97 C3.39 7
+Solar flares
+Region Start Maximum End
+2909 B7.8 03:13 03:19 03:24
+2909 C1.4 03:25 03:34 03:41
+2909 C1.3 03:44 03:54 04:04
+2907 C1.6 05:05 05:21 05:36
+- B9.3 07:45 07:48 07:52
+- B9.3 09:19 09:28 09:37
+- B8.4 09:37 09:42 09:46
+- C1.4 13:23 13:32 13:34
+2911 C2 13:34 13:41 13:45
+2909 C3.4 15:19 15:27 15:31
+2911 B7.8 16:36 16:43 16:47
+2911 C2.3 19:58 20:09 20:20
+2911 C3 20:29 20:44 21:06
+2909 C3 23:35 23:39 23:43
+
+Sunspot number New regions Background flux Maximum flux C M
+119 -8 0 -2 B5.34 M1.29 9 1
+Solar flares
+Region Start Maximum End
+2911 M1.29
+1
+2
+3
+00:39 00:51 00:56
+2911 C1.5 03:25 03:31 03:41
+2911 C1.1 03:54 03:59 04:01
+2911 C1.2 04:01 04:08 04:12
+2911 C1.3 04:50 04:58 05:02
+2911 C1.4 05:06 05:10 05:15
+2911 C1.3 06:18 06:25 06:30
+2909 C2.3 12:55 13:12 13:25
+2907 B9.8 14:08 14:12 14:18
+2907 C1.1 14:22 14:30 14:40
+2911 C1.5 17:39 17:53 18:08
+2908 B8.1 20:28 20:35 20:45
+- C1.3 22:21 22:30 22:36
+
+Sunspot number New regions Background flux Maximum flux C
+117 -2 0 B4.78 C6.32 2
+Solar flares
+Region Start Maximum End
+- B9.3 01:02 01:10 01:15
+2909 C1.1 01:40 01:54 02:13
+2807 B9.1 11:17 11:24 11:30
+- C1.2 17:08 17:21 17:27
+2807 C6.4 17:27 18:01 18:36
+
+Sunspot number New regions Background flux Maximum flux C
+109 -8 1 1 B4.08 C3.79 4
+Solar flares
+Region Start Maximum End
+2907 B6.3 10:34 10:42 10:47
+2907 C1.5 11:51 11:59 12:03
+2907 B9.1 14:26 14:29 14:33
+2907 C1.8 16:15 16:23 16:27
+2907 C1.9 19:04 19:16 19:28
+- B7.5 20:31 20:39 20:59
+2907 C3.8 20:59 21:12 21:28
+
+Sunspot number New regions Background flux Maximum flux C M
+115 6 1 B6.85 M1.9 13 1
+Solar flares
+Region Start Maximum End
+2908 C1.6 00:17 00:34 00:53
+2909 C4.5 03:08 03:21 03:27
+2908 C1.6 04:29 04:37 04:43
+2907 C1.3 06:33 06:40 06:44
+2907 C1.2 08:42 08:51 08:58
+2907 C1.1 09:19 09:21 09:25
+2907 C2.9 10:37 10:46 10:50
+2908 M1.9
+1
+2
+3
+11:12 11:36 11:55
+2907 C1.4 13:48 13:54 13:59
+2907 C1.4 15:57 16:02 16:06
+2907 C1.1 16:34 16:42 17:02
+- C1.4 17:15 17:28 17:32
+- C1.5 17:32 17:35 17:39
+- C1.4 20:23 20:32 20:41
+- C1.6 20:45 20:49 20:55
+- C1.1 22:47 22:53 23:03
+
+Sunspot number New regions Background flux Maximum flux C M
+147 32 3 2 B7.49 M1.48 11 2
+Solar flares
+Region Start Maximum End
+2907 C5.6 01:44 01:58 02:12
+2908 C2.9 03:40 03:44 03:52
+2908 C3.3 04:48 05:00 05:09
+2908 C4.1 05:58 06:10 06:19
+2908 C5 07:06 07:22 07:34
+2916 M1.1
+1
+07:43 07:50 07:57
+2916 M1.4
+1
+11:31 11:44 11:49
+2908 C1 13:45 13:52 14:00
+2916 C2 15:44 15:53 15:58
+2908 C5 17:35 17:50 18:04
+2909 C4.9 19:02 19:23 19:53
+- C4 20:36 20:48 20:59
+- C4.9 22:29 22:37 23:08
+
+Sunspot number New regions Background flux Maximum flux C M
+137 -10 2 -1 B9.44 M1.3 10 1
+Solar flares
+Region Start Maximum End
+- C5.7 00:12 00:21 00:29
+2907 C1.5 04:36 04:46 04:56
+2907 C4 05:15 05:42 05:59
+2908 M1.3
+1
+06:54 07:06 07:21
+2907 C2.9 10:04 10:11 10:14
+2907 C3.4 10:14 10:18 10:22
+2908 C2 11:03 11:09 11:16
+2907 C9 17:54 18:08 18:26
+2907 C2.5 19:31 19:39 19:45
+2918 C1.4 20:42 20:46 20:50
+2907 C1.1 21:20 21:27 21:33
+2908 C2 22:05 22:18 22:33
+- C1.9 23:44 23:53 00:03
+
+Sunspot number New regions Background flux Maximum flux C
+143 6 0 -2 B8.04 C2.69 15
+Solar flares
+Region Start Maximum End
+2907 C1.4 00:45 00:58 01:08
+2907 C1.1 02:13 02:23 02:30
+2907 C1.1 02:28 02:34 02:38
+2907 C1.7 03:19 03:29 03:33
+2907 C2.6 03:33 03:46 03:52
+2907 C2 07:19 07:32 07:44
+2907 C2.1 08:02 08:11 08:20
+2907 C2.7 09:19 09:30 09:39
+1916 C1.4 12:41 12:46 12:50
+2917 C1.4 13:16 13:22 13:26
+2917 C1.9 13:26 13:31 13:36
+2907 C1.4 13:52 14:01 14:06
+2907 C1.1 14:54 15:01 15:09
+2907 C1 15:09 15:14 15:24
+2907 C1.1 16:14 16:19 16:48
+2907 C1.2 17:35 17:41 17:46
+2907 C1.1 18:38 18:49 19:06
+2907 C1.2 21:55 22:03 22:24
+2907 C1.3 23:30 23:35 23:39
+
+Sunspot number New regions Background flux Maximum flux C
+145 2 0 B7.52 C7.45 13
+Solar flares
+Region Start Maximum End
+- C1.2 00:46 00:57 01:07
+2907 C5.2 02:27 02:43 02:58
+2917 C7.5 03:25 03:42 03:50
+2908 C1.6 06:02 06:10 06:17
+2908 C5.8 06:20 06:27 06:48
+2907 C5.6 07:02 07:19 07:34
+2908 C3.8 07:47 07:52 07:56
+2907 C3 08:10 08:20 08:29
+2908 C4.2 09:59 10:13 10:20
+2908 C3.5 10:20 10:25 10:39
+2908 C5.3 11:33 12:12 12:36
+2908 C1.4 21:57 22:02 22:07
+2908 C1.3 22:27 22:35 22:53
+2908 C1.9 22:56 23:07 23:20
+
+Sunspot number New regions Background flux Maximum flux C
+128 -17 1 1 B8.85 C3.43 12
+Solar flares
+Region Start Maximum End
+2918 C1.1 00:39 00:45 00:50
+2916 C1.4 01:26 01:34 01:39
+2918 C1.3 03:14 03:26 03:34
+2907 C1.3 06:37 06:45 06:59
+2917 C1.8 07:13 07:26 07:49
+2909 C1.8 09:00 09:13 09:32
+2918 C2.3 09:43 09:51 09:58
+2918 C3 12:15 12:24 12:29
+2918 C3.3 13:19 13:30 13:35
+2917 C3.1 15:47 15:58 16:08
+2918 C3.2 16:14 16:19 16:24
+2918 C3.4 18:53 19:05 19:15
+
+Sunspot number New regions Background flux Maximum flux C
+95 -33 1 B6.76 C3.29 7
+Solar flares
+Region Start Maximum End
+2918 C1.8 00:12 00:21 00:30
+2908 C2.7 00:33 00:36 00:41
+2908 C1.9 01:26 01:35 01:50
+2918 C2 04:32 04:42 04:49
+2916 B9.6 14:03 14:08 14:14
+2916 B9.9 17:28 17:35 17:42
+- C1 18:26 18:32 18:40
+2920 C1.4 18:46 18:59 19:10
+- C3.3 20:00 20:12 20:20
+2917 B9.9 21:36 21:44 21:52
+
+Sunspot number New regions Background flux Maximum flux C
+85 -10 0 -1 B4.75 C2.27 8
+Solar flares
+Region Start Maximum End
+- C1.1 23:57 00:02 00:09
+2915 C1 00:27 00:34 00:38
+- C1.4 02:16 02:27 02:34
+- C1.2 02:53 03:05 03:16
+2917 C1.4 04:06 04:20 04:33
+- C1 06:09 06:17 06:25
+2917 C1.3 09:45 09:53 09:59
+- B8.2 10:50 10:54 10:58
+- B8.9 12:24 12:36 12:54
+- B6.7 18:02 18:11 18:21
+- C1.4 19:37 19:48 20:00
+- B6.8 22:08 22:15 22:19
+- B6 23:18 23:24 23:28
+- C2.2 23:28 23:35 23:42
+
+Sunspot number New regions Background flux Maximum flux C M
+107 22 1 1 B5.23 M1.89 6 2
+Solar flares
+Region Start Maximum End
+- C1.1 00:12 00:17 00:25
+- C1.3 00:25 00:32 00:36
+- C1.4 00:39 00:47 00:51
+- C1.4 00:51 00:55 00:59
+2918 C1.8 02:05 02:12 02:19
+2918 C2.8 02:19 02:36 02:46
+2918 C2.6 02:46 02:51 02:55
+2918 M1.89
+1
+03:50 04:01 04:10
+- C1.3 06:11 06:18 06:23
+2918 C7.1 07:29 07:44 07:57
+2918 B9.4 12:59 13:05 13:10
+2918 C1 15:03 15:14 15:32
+2918 M1.6
+1
+2
+3
+15:59 16:11 16:20
+- B5.7 21:35 21:42 21:46
+- B8.4 22:37 22:46 22:52
+2918 B8.4 22:52 22:58 23:06
+
+Sunspot number New regions Background flux Maximum flux C
+79 -28 0 -1 B3.1 C4.67 1
+Solar flares
+Region Start Maximum End
+2916 C4.7 04:18 04:28 04:32
+2916 B5.2 12:32 12:40 12:58
+2918 B5.4 12:57 13:04 13:13
+2921 B5.5 21:43 21:49 21:54
+2918 B6.9 23:12 23:29 23:40
+
+Sunspot number New regions Background flux Maximum flux
+77 -2 0 B2.45 B8.39
+Solar flares
+Region Start Maximum End
+2921 B7.8 00:15 00:24 00:31
+- B4.4 05:30 05:40 05:54
+2918 B8.4 07:52 08:10 08:24
+- B4.9 09:51 09:54 09:58
+- B3.9 10:52 10:58 11:02
+- B4.9 16:19 16:26 16:31
+- B4.1 19:03 19:09 19:15
+- B4.6 20:18 20:24 20:34
+- B4.2 22:33 22:37 22:41
+- B4.1 22:43 22:51 22:59
+
+Sunspot number New regions Background flux Maximum flux C
+53 -24 1 1 B2.63 C9.88 5
+Solar flares
+Region Start Maximum End
+- B4.7 03:09 03:16 03:22
+2918 C1.9 04:44 04:54 05:07
+2918 C4.6 06:26 06:41 06:46
+2918 C9.8 06:46 06:56 07:06
+2916 B4.5 10:01 10:05 10:10
+- B4.4 11:06 11:14 11:25
+2916 B4.5 12:31 12:37 12:42
+2916 B7.9 15:58 16:11 16:22
+- C1.2 17:11 17:24 17:41
+2918 C8.2 19:32 19:46 20:02
+2918 B6.3 22:31 22:37 22:43
+
